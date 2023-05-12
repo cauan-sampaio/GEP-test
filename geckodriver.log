@@ -14568,3 +14568,4 @@ A content process crashed and MOZ_CRASHREPORTER_SHUTDOWN is set, shutting down
 console.error: (new AbortError("IndexedDB: main/top-sites list() IndexedDB:  execute() A request was aborted, for example through a call to IDBTransaction.abort.", "resource://services-settings/IDBHelpers.jsm", 18))
 1683922771266	geckodriver::marionette	ERROR	Failed to close browser connection: Socket not connected (os error 107)
 [ERROR glean_core] Can't persist ping lifetime data: Error { kind: Rkv(IoError(Os { code: 2, kind: NotFound, message: "Arquivo ou diretório inexistente" })) }
+1683922976931	Marionette	INFO	Stopped listening on port 42729
