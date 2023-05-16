@@ -1,74 +1,57 @@
-from asyncio import Event
 from selenium import webdriver
-from selenium.webdriver.common.keys import Keys
-from time import sleep
+from selenium.webdriver.common.by import By
 from selenium.webdriver.support.ui import WebDriverWait
 from selenium.webdriver.support import expected_conditions as EC
-from selenium.webdriver.common.by import By
 from selenium.common.exceptions import TimeoutException
+import subprocess
+from time import sleep
 
-driver = webdriver.Firefox()
-driver.get("http://localhost:3000/computers")
-driver.current_url
-sleep(3)
 
-# Clicar no botão "Adicionar"
-adicionar = driver.find_element(By.ID, 'Add')
-adicionar.click()
+class ComputerRegistration:
+    def __init__(self):
+        self.driver = webdriver.Firefox()
 
-# Encontrar janela
-def encontra_janela(palavra: str) -> bool:
-    windows = driver.window_handles 
-    for win in windows:
-        driver.switch_to.window(win)
-    if palavra in driver.current_url:
-        print(f'Encontrei a janela {driver.current_url}')
-        return True
-    print(f'Não encontrei nenuma janela com a palavra: {palavra}')
-    return False
+    def open_website(self, url):
+        self.driver.get(url)
 
-encontra_janela('http://localhost:3000/computers')
-sleep(3)
+    def register_computer(self, patrimonio, maquina, des, space):
+        sleep(3)
+        # Clicar no botão "Adicionar"
+        adicionar = self.driver.find_element(By.ID, 'Add')
+        adicionar.click()
 
-# Preencher campo "Patrimonio"
-patrimonio = driver.find_element(By.ID, 'patrimony-textfield')
-patrimonio.click()
-sleep(3)
-patrimonio.send_keys(' jjhjgj-1221344321+77686656')
+        sleep(3)
+        # Preencher campo "Patrimonio"
+        patrimonio_element = self.driver.find_element(By.XPATH, '//*[@id="patrimony-textfield"]')
+        patrimonio_element.click()
+        sleep(3)
+        patrimonio_element.send_keys(patrimonio)
 
-# Preencher campo "Maquina"
-maquina = driver.find_element(By.ID, 'abbreviation-textfield')
-maquina.click()
-sleep(3)
-maquina.send_keys(' pc 011111')
+        # Preencher campo "Maquina"
+        maquina_element = self.driver.find_element(By.ID, 'abbreviation-textfield')
+        maquina_element.click()
+        sleep(3)
+        maquina_element.send_keys(maquina)
 
-# Preencher campo "Des"
-des = driver.find_element(By.ID, 'description-textfield')
-des.click()
-sleep(3)
-des.send_keys('Intel i5 4 geração, memória RAM: 8 GB, HD:1TB, placa de vídeo:Integrada')
+        # Preencher campo "Des"
+        des_element = self.driver.find_element(By.ID, 'description-textfield')
+        des_element.click()
+        sleep(3)
+        des_element.send_keys(des)
 
-# Selecionar espaço
-espa = driver.find_element(By.ID, 'space-name-textfield')
-espa.click()
-sleep(3)
-espa.find_element(By.XPATH, '/html/body/div[2]/div/div[3]/form/div/div[4]/ul/li[1]').click()
+        # Selecionar espaço
+        espa_element = self.driver.find_element(By.ID, 'space-name-textfield')
+        espa_element.click()
+        sleep(3)
+        space_element = espa_element.find_element(By.XPATH, f'/html/body/div[3]/div/div[3]/form/div/div[4]/ul/li[{space}]')
+        space_element.click()
 
-# Clicar no botão "Salvar"
-save = driver.find_element(By.ID, 'save-bnt')
-sleep(3) 
-save.click()
-sleep(2)
+        # Clicar no botão "Salvar"
+        save = self.driver.find_element(By.ID, 'save-bnt')
+        sleep(3)
+        save.click()
+        sleep(2)
 
-# Capturar o alerta "Computador cadastrado com sucesso"
-try:
-    wait = WebDriverWait(driver, 10)
-    wait.until(EC.alert_is_present())
-    alert = driver.switch_to.alert
-    if "Computador cadastrado com sucesso" in alert.text:
-        print("Computador cadastrado com sucesso")
-        alert.accept()
-except TimeoutException:
-    print("Alerta não encontrado ou expirado")
+
 
 
