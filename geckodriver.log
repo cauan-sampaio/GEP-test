@@ -37087,3 +37087,1206 @@ webdriverClickElement@chrome://remote/content/marionette/interaction.sys.mjs:173
 1684353322292	Marionette	INFO	Stopped listening on port 41107
 !!! error running onStopped callback: TypeError: callback is not a function
 Sandbox: Unexpected EOF, op 0 flags 00 path /proc/cpuinfo
+1684425904567	geckodriver	INFO	Listening on 127.0.0.1:59069
+1684425905057	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/usr ... te" "--remote-debugging-port" "35201" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofile2kHQUP"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1684425907424	Marionette	INFO	Marionette enabled
+1684425907432	Marionette	INFO	Listening on port 44159
+Read port: 44159
+WebDriver BiDi listening on ws://127.0.0.1:35201
+1684425907607	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: ({})
+[ERROR glean_core] Error setting metrics feature config: Json(Error("EOF while parsing a value", line: 1, column: 0))
+DevTools listening on ws://127.0.0.1:35201/devtools/browser/a5d87c27-2d98-4db3-8adb-98903d8f3bf5
+console.error: (new TypeError("linkMap is undefined", "resource://gre/modules/NewTabUtils.sys.mjs", 2019))
+console.warn: LoginRecipes: "Falling back to a synchronous message for: http://localhost:3000."
+console.error: "update.locale" " file doesn't exist in either the application or GRE directories"
+1684425939152	geckodriver	INFO	Listening on 127.0.0.1:43247
+1684425939684	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/usr ... te" "--remote-debugging-port" "56667" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileSfAhx5"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1684425942738	Marionette	INFO	Marionette enabled
+1684425942743	Marionette	INFO	Listening on port 32903
+Read port: 32903
+WebDriver BiDi listening on ws://127.0.0.1:56667
+1684425942870	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: ({})
+[ERROR glean_core] Error setting metrics feature config: Json(Error("EOF while parsing a value", line: 1, column: 0))
+[Child 9290, Main Thread] WARNING: JSWindowActorChild::SendRawMessage (Conduits, ConduitClosed) not sent: !CanSend() || !mManager || !mManager->CanSend(): file /build/firefox-sx15yn/firefox-113.0.1+build1/dom/ipc/jsactor/JSWindowActorChild.cpp:57
+[Child 9290, Main Thread] WARNING: JSWindowActorChild::SendRawMessage (Conduits, ConduitClosed) not sent: !CanSend() || !mManager || !mManager->CanSend(): file /build/firefox-sx15yn/firefox-113.0.1+build1/dom/ipc/jsactor/JSWindowActorChild.cpp:57
+[Child 9290, Main Thread] WARNING: JSWindowActorChild::SendRawMessage (Conduits, ConduitClosed) not sent: !CanSend() || !mManager || !mManager->CanSend(): file /build/firefox-sx15yn/firefox-113.0.1+build1/dom/ipc/jsactor/JSWindowActorChild.cpp:57
+[Child 9290, Main Thread] WARNING: JSWindowActorChild::SendRawMessage (Conduits, ConduitClosed) not sent: !CanSend() || !mManager || !mManager->CanSend(): file /build/firefox-sx15yn/firefox-113.0.1+build1/dom/ipc/jsactor/JSWindowActorChild.cpp:57
+[Child 9290, Main Thread] WARNING: JSWindowActorChild::SendRawMessage (Conduits, ConduitClosed) not sent: !CanSend() || !mManager || !mManager->CanSend(): file /build/firefox-sx15yn/firefox-113.0.1+build1/dom/ipc/jsactor/JSWindowActorChild.cpp:57
+[Child 9290, Main Thread] WARNING: JSWindowActorChild::SendRawMessage (Conduits, ConduitClosed) not sent: !CanSend() || !mManager || !mManager->CanSend(): file /build/firefox-sx15yn/firefox-113.0.1+build1/dom/ipc/jsactor/JSWindowActorChild.cpp:57
+[Child 9290, Main Thread] WARNING: JSWindowActorChild::SendRawMessage (Conduits, ConduitClosed) not sent: !CanSend() || !mManager || !mManager->CanSend(): file /build/firefox-sx15yn/firefox-113.0.1+build1/dom/ipc/jsactor/JSWindowActorChild.cpp:57
+[Child 9290, Main Thread] WARNING: JSWindowActorChild::SendRawMessage (Conduits, ConduitClosed) not sent: !CanSend() || !mManager || !mManager->CanSend(): file /build/firefox-sx15yn/firefox-113.0.1+build1/dom/ipc/jsactor/JSWindowActorChild.cpp:57
+JavaScript error: resource://activity-stream/lib/ActivityStreamPrefs.jsm, line 27: NS_ERROR_ILLEGAL_VALUE: Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [nsIPrefBranch.removeObserver]
+1684425947588	Marionette	INFO	Stopped listening on port 32903
+1684425947597	CDP	WARN	Failed to remove undefined (Could not parse path (undefined): NS_ERROR_FILE_UNRECOGNIZED_PATH)
+JavaScript error: chrome://global/content/elements/browser-custom-element.js, line 649: TypeError: this.browsingContext is null
+JavaScript error: chrome://global/content/elements/browser-custom-element.js, line 649: TypeError: this.browsingContext is null
+1684425970413	geckodriver	INFO	Listening on 127.0.0.1:56891
+1684425970420	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/usr ... te" "--remote-debugging-port" "46965" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileZL989r"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1684425972678	Marionette	INFO	Marionette enabled
+1684425972683	Marionette	INFO	Listening on port 44321
+Read port: 44321
+WebDriver BiDi listening on ws://127.0.0.1:46965
+1684425972810	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: ({})
+[ERROR glean_core] Error setting metrics feature config: Json(Error("EOF while parsing a value", line: 1, column: 0))
+[Child 8736, Main Thread] WARNING: JSWindowActorChild::SendRawMessage (Conduits, ConduitClosed) not sent: !CanSend() || !mManager || !mManager->CanSend(): file /build/firefox-sx15yn/firefox-113.0.1+build1/dom/ipc/jsactor/JSWindowActorChild.cpp:57
+[Child 8736, Main Thread] WARNING: JSWindowActorChild::SendRawMessage (Conduits, ConduitClosed) not sent: !CanSend() || !mManager || !mManager->CanSend(): file /build/firefox-sx15yn/firefox-113.0.1+build1/dom/ipc/jsactor/JSWindowActorChild.cpp:57
+[Child 8736, Main Thread] WARNING: JSWindowActorChild::SendRawMessage (Conduits, ConduitClosed) not sent: !CanSend() || !mManager || !mManager->CanSend(): file /build/firefox-sx15yn/firefox-113.0.1+build1/dom/ipc/jsactor/JSWindowActorChild.cpp:57
+[Child 8736, Main Thread] WARNING: JSWindowActorChild::SendRawMessage (Conduits, ConduitClosed) not sent: !CanSend() || !mManager || !mManager->CanSend(): file /build/firefox-sx15yn/firefox-113.0.1+build1/dom/ipc/jsactor/JSWindowActorChild.cpp:57
+[Child 8736, Main Thread] WARNING: JSWindowActorChild::SendRawMessage (Conduits, ConduitClosed) not sent: !CanSend() || !mManager || !mManager->CanSend(): file /build/firefox-sx15yn/firefox-113.0.1+build1/dom/ipc/jsactor/JSWindowActorChild.cpp:57
+[Child 8736, Main Thread] WARNING: JSWindowActorChild::SendRawMessage (Conduits, ConduitClosed) not sent: !CanSend() || !mManager || !mManager->CanSend(): file /build/firefox-sx15yn/firefox-113.0.1+build1/dom/ipc/jsactor/JSWindowActorChild.cpp:57
+[Child 8736, Main Thread] WARNING: JSWindowActorChild::SendRawMessage (Conduits, ConduitClosed) not sent: !CanSend() || !mManager || !mManager->CanSend(): file /build/firefox-sx15yn/firefox-113.0.1+build1/dom/ipc/jsactor/JSWindowActorChild.cpp:57
+[Child 8736, Main Thread] WARNING: JSWindowActorChild::SendRawMessage (Conduits, ConduitClosed) not sent: !CanSend() || !mManager || !mManager->CanSend(): file /build/firefox-sx15yn/firefox-113.0.1+build1/dom/ipc/jsactor/JSWindowActorChild.cpp:57
+1684425976322	Marionette	INFO	Stopped listening on port 44159
+!!! error running onStopped callback: TypeError: callback is not a function
+DevTools listening on ws://127.0.0.1:46965/devtools/browser/d3332cca-5576-46d5-be9d-a5d4e94b62cb
+console.error: (new TypeError("this._searchProviderInfo is null", "resource:///modules/SearchSERPTelemetry.sys.mjs", 502))
+console.error: (new TypeError("linkMap is undefined", "resource://gre/modules/NewTabUtils.sys.mjs", 2019))
+1684425991130	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.sys.mjs:221:24
+TimedPromise@chrome://remote/content/marionette/sync.sys.mjs:205:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.sys.mjs:424:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.sys.mjs:173:31
+1684425994879	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.sys.mjs:221:24
+TimedPromise@chrome://remote/content/marionette/sync.sys.mjs:205:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.sys.mjs:424:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.sys.mjs:173:31
+1684425998647	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.sys.mjs:221:24
+TimedPromise@chrome://remote/content/marionette/sync.sys.mjs:205:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.sys.mjs:424:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.sys.mjs:173:31
+1684426002357	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.sys.mjs:221:24
+TimedPromise@chrome://remote/content/marionette/sync.sys.mjs:205:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.sys.mjs:424:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.sys.mjs:173:31
+console.error: "update.locale" " file doesn't exist in either the application or GRE directories"
+console.warn: LoginRecipes: "Falling back to a synchronous message for: http://localhost:3000."
+1684426006071	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.sys.mjs:221:24
+TimedPromise@chrome://remote/content/marionette/sync.sys.mjs:205:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.sys.mjs:424:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.sys.mjs:173:31
+[Child 9787, Main Thread] WARNING: JSWindowActorChild::SendRawMessage (Conduits, ConduitClosed) not sent: !CanSend() || !mManager || !mManager->CanSend(): file /build/firefox-sx15yn/firefox-113.0.1+build1/dom/ipc/jsactor/JSWindowActorChild.cpp:57
+[Child 9787, Main Thread] WARNING: JSWindowActorChild::SendRawMessage (Conduits, ConduitClosed) not sent: !CanSend() || !mManager || !mManager->CanSend(): file /build/firefox-sx15yn/firefox-113.0.1+build1/dom/ipc/jsactor/JSWindowActorChild.cpp:57
+[Child 9787, Main Thread] WARNING: JSWindowActorChild::SendRawMessage (Conduits, ConduitClosed) not sent: !CanSend() || !mManager || !mManager->CanSend(): file /build/firefox-sx15yn/firefox-113.0.1+build1/dom/ipc/jsactor/JSWindowActorChild.cpp:57
+[Child 9787, Main Thread] WARNING: JSWindowActorChild::SendRawMessage (Conduits, ConduitClosed) not sent: !CanSend() || !mManager || !mManager->CanSend(): file /build/firefox-sx15yn/firefox-113.0.1+build1/dom/ipc/jsactor/JSWindowActorChild.cpp:57
+[Child 9787, Main Thread] WARNING: JSWindowActorChild::SendRawMessage (Conduits, ConduitClosed) not sent: !CanSend() || !mManager || !mManager->CanSend(): file /build/firefox-sx15yn/firefox-113.0.1+build1/dom/ipc/jsactor/JSWindowActorChild.cpp:57
+[Child 9787, Main Thread] WARNING: JSWindowActorChild::SendRawMessage (Conduits, ConduitClosed) not sent: !CanSend() || !mManager || !mManager->CanSend(): file /build/firefox-sx15yn/firefox-113.0.1+build1/dom/ipc/jsactor/JSWindowActorChild.cpp:57
+[Child 9787, Main Thread] WARNING: JSWindowActorChild::SendRawMessage (Conduits, ConduitClosed) not sent: !CanSend() || !mManager || !mManager->CanSend(): file /build/firefox-sx15yn/firefox-113.0.1+build1/dom/ipc/jsactor/JSWindowActorChild.cpp:57
+[Child 9787, Main Thread] WARNING: JSWindowActorChild::SendRawMessage (Conduits, ConduitClosed) not sent: !CanSend() || !mManager || !mManager->CanSend(): file /build/firefox-sx15yn/firefox-113.0.1+build1/dom/ipc/jsactor/JSWindowActorChild.cpp:57
+1684426077615	Marionette	INFO	Stopped listening on port 44321
+Sandbox: Unexpected EOF, op 0 flags 00 path /proc/cpuinfo
+1684426088364	geckodriver	INFO	Listening on 127.0.0.1:36817
+1684426088370	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/usr ... te" "--remote-debugging-port" "56725" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofilenjzqFW"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1684426090739	Marionette	INFO	Marionette enabled
+1684426090744	Marionette	INFO	Listening on port 43293
+Read port: 43293
+WebDriver BiDi listening on ws://127.0.0.1:56725
+1684426090877	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: ({})
+[ERROR glean_core] Error setting metrics feature config: Json(Error("EOF while parsing a value", line: 1, column: 0))
+DevTools listening on ws://127.0.0.1:56725/devtools/browser/4d895002-b84b-4a07-b5a7-e84520cdd23d
+console.error: (new TypeError("this._searchProviderInfo is null", "resource:///modules/SearchSERPTelemetry.sys.mjs", 502))
+console.error: (new TypeError("linkMap is undefined", "resource://gre/modules/NewTabUtils.sys.mjs", 2019))
+console.warn: LoginRecipes: "Falling back to a synchronous message for: http://localhost:3000."
+console.error: "update.locale" " file doesn't exist in either the application or GRE directories"
+1684426141748	geckodriver	INFO	Listening on 127.0.0.1:34697
+1684426141754	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/usr ... te" "--remote-debugging-port" "58375" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofilesWEOnk"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1684426143979	Marionette	INFO	Marionette enabled
+1684426143984	Marionette	INFO	Listening on port 36523
+Read port: 36523
+WebDriver BiDi listening on ws://127.0.0.1:58375
+1684426144117	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: ({})
+[ERROR glean_core] Error setting metrics feature config: Json(Error("EOF while parsing a value", line: 1, column: 0))
+DevTools listening on ws://127.0.0.1:58375/devtools/browser/e78dd22d-3dec-4657-a5b1-8257e292703b
+console.error: (new TypeError("this._searchProviderInfo is null", "resource:///modules/SearchSERPTelemetry.sys.mjs", 502))
+console.error: (new TypeError("linkMap is undefined", "resource://gre/modules/NewTabUtils.sys.mjs", 2019))
+console.warn: LoginRecipes: "Falling back to a synchronous message for: http://localhost:3000."
+console.error: "update.locale" " file doesn't exist in either the application or GRE directories"
+1684426185451	Marionette	INFO	Stopped listening on port 36523
+[Child 11810, Main Thread] WARNING: JSWindowActorChild::SendRawMessage (Conduits, ConduitClosed) not sent: !CanSend() || !mManager || !mManager->CanSend(): file /build/firefox-sx15yn/firefox-113.0.1+build1/dom/ipc/jsactor/JSWindowActorChild.cpp:57
+[Child 11810, Main Thread] WARNING: JSWindowActorChild::SendRawMessage (Conduits, ConduitClosed) not sent: !CanSend() || !mManager || !mManager->CanSend(): file /build/firefox-sx15yn/firefox-113.0.1+build1/dom/ipc/jsactor/JSWindowActorChild.cpp:57
+[Child 11810, Main Thread] WARNING: JSWindowActorChild::SendRawMessage (Conduits, ConduitClosed) not sent: !CanSend() || !mManager || !mManager->CanSend(): file /build/firefox-sx15yn/firefox-113.0.1+build1/dom/ipc/jsactor/JSWindowActorChild.cpp:57
+[Child 11810, Main Thread] WARNING: JSWindowActorChild::SendRawMessage (Conduits, ConduitClosed) not sent: !CanSend() || !mManager || !mManager->CanSend(): file /build/firefox-sx15yn/firefox-113.0.1+build1/dom/ipc/jsactor/JSWindowActorChild.cpp:57
+[Child 11810, Main Thread] WARNING: JSWindowActorChild::SendRawMessage (Conduits, ConduitClosed) not sent: !CanSend() || !mManager || !mManager->CanSend(): file /build/firefox-sx15yn/firefox-113.0.1+build1/dom/ipc/jsactor/JSWindowActorChild.cpp:57
+[Child 11810, Main Thread] WARNING: JSWindowActorChild::SendRawMessage (Conduits, ConduitClosed) not sent: !CanSend() || !mManager || !mManager->CanSend(): file /build/firefox-sx15yn/firefox-113.0.1+build1/dom/ipc/jsactor/JSWindowActorChild.cpp:57
+[Child 11810, Main Thread] WARNING: JSWindowActorChild::SendRawMessage (Conduits, ConduitClosed) not sent: !CanSend() || !mManager || !mManager->CanSend(): file /build/firefox-sx15yn/firefox-113.0.1+build1/dom/ipc/jsactor/JSWindowActorChild.cpp:57
+[Child 11810, Main Thread] WARNING: JSWindowActorChild::SendRawMessage (Conduits, ConduitClosed) not sent: !CanSend() || !mManager || !mManager->CanSend(): file /build/firefox-sx15yn/firefox-113.0.1+build1/dom/ipc/jsactor/JSWindowActorChild.cpp:57
+console.error: services.settings: 
+  Message: NetworkError: Network error: TypeError: NetworkError: Network request failed
+  Stack:
+    APIError@resource://services-settings/RemoteSettingsClient.sys.mjs:111:1
+NetworkError@resource://services-settings/RemoteSettingsClient.sys.mjs:115:5
+_adjustedError@resource://services-settings/RemoteSettingsClient.sys.mjs:911:14
+maybeSync@resource://services-settings/RemoteSettingsClient.sys.mjs:816:38
+
+console.warn: services.settings: main/sites-classification sync interrupted by shutdown
+console.warn: services.settings: main/anti-tracking-url-decoration sync interrupted by shutdown
+console.warn: services.settings: main/public-suffix-list sync interrupted by shutdown
+console.error: (new AbortError("IndexedDB: main/personality-provider-models getLastModified() IndexedDB:  execute() A request was aborted, for example through a call to IDBTransaction.abort.", "resource://services-settings/IDBHelpers.jsm", 18))
+WARNING: A blocker encountered an error while we were waiting.
+          Blocker:  Waiting for ping task
+          Phase: TelemetryController: Waiting for pending ping activity
+          State: (none)
+WARNING: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "OS.File: flush I/O queued before profileBeforeChange"
+WARNING: addBlocker@resource://gre/modules/AsyncShutdown.sys.mjs:727:15
+addBlocker@resource://gre/modules/AsyncShutdown.sys.mjs:523:26
+addBlocker@resource://gre/modules/AsyncShutdown.sys.mjs:458:15
+setupShutdown@resource://gre/modules/osfile/osfile_async_front.jsm:1548:28
+@resource://gre/modules/osfile/osfile_async_front.jsm:1568:16
+@resource://gre/modules/osfile.jsm:12:30
+@resource://gre/modules/TelemetryStorage.sys.mjs:10:28
+_checkPendingPings@resource://gre/modules/TelemetrySend.sys.mjs:859:17
+setup@resource://gre/modules/TelemetrySend.sys.mjs:799:18
+setup@resource://gre/modules/TelemetrySend.sys.mjs:237:30
+setupTelemetry/this._delayedInitTask<@resource://gre/modules/TelemetryControllerParent.sys.mjs:824:36
+observe@resource://gre/modules/AsyncShutdown.sys.mjs:576:16
+
+console.error: "TelemetryScheduler.shutdown - Already shut down"
+WARNING: A blocker encountered an error while we were waiting.
+          Blocker:  Waiting for ping task
+          Phase: TelemetryController: Waiting for pending ping activity
+          State: (none)
+WARNING: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "OS.File: flush I/O queued before profileBeforeChange"
+WARNING: addBlocker@resource://gre/modules/AsyncShutdown.sys.mjs:727:15
+addBlocker@resource://gre/modules/AsyncShutdown.sys.mjs:523:26
+addBlocker@resource://gre/modules/AsyncShutdown.sys.mjs:458:15
+setupShutdown@resource://gre/modules/osfile/osfile_async_front.jsm:1548:28
+@resource://gre/modules/osfile/osfile_async_front.jsm:1568:16
+@resource://gre/modules/osfile.jsm:12:30
+@resource://gre/modules/TelemetryStorage.sys.mjs:10:28
+_checkPendingPings@resource://gre/modules/TelemetrySend.sys.mjs:859:17
+setup@resource://gre/modules/TelemetrySend.sys.mjs:799:18
+setup@resource://gre/modules/TelemetrySend.sys.mjs:237:30
+setupTelemetry/this._delayedInitTask<@resource://gre/modules/TelemetryControllerParent.sys.mjs:824:36
+observe@resource://gre/modules/AsyncShutdown.sys.mjs:576:16
+
+WARNING: A blocker encountered an error while we were waiting.
+          Blocker:  Waiting for ping task
+          Phase: TelemetryController: Waiting for pending ping activity
+          State: (none)
+WARNING: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "OS.File: flush I/O queued before profileBeforeChange"
+WARNING: addBlocker@resource://gre/modules/AsyncShutdown.sys.mjs:727:15
+addBlocker@resource://gre/modules/AsyncShutdown.sys.mjs:523:26
+addBlocker@resource://gre/modules/AsyncShutdown.sys.mjs:458:15
+setupShutdown@resource://gre/modules/osfile/osfile_async_front.jsm:1548:28
+@resource://gre/modules/osfile/osfile_async_front.jsm:1568:16
+@resource://gre/modules/osfile.jsm:12:30
+@resource://gre/modules/TelemetryStorage.sys.mjs:10:28
+_checkPendingPings@resource://gre/modules/TelemetrySend.sys.mjs:859:17
+setup@resource://gre/modules/TelemetrySend.sys.mjs:799:18
+setup@resource://gre/modules/TelemetrySend.sys.mjs:237:30
+setupTelemetry/this._delayedInitTask<@resource://gre/modules/TelemetryControllerParent.sys.mjs:824:36
+observe@resource://gre/modules/AsyncShutdown.sys.mjs:576:16
+
+WARNING: A blocker encountered an error while we were waiting.
+          Blocker:  TelemetryController: shutting down
+          Phase: profile-before-change-telemetry
+          State: Error getting state: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "OS.File: flush I/O queued before profileBeforeChange" at addBlocker@resource://gre/modules/AsyncShutdown.sys.mjs:727:15
+addBlocker@resource://gre/modules/AsyncShutdown.sys.mjs:523:26
+addBlocker@resource://gre/modules/AsyncShutdown.sys.mjs:458:15
+setupShutdown@resource://gre/modules/osfile/osfile_async_front.jsm:1548:28
+@resource://gre/modules/osfile/osfile_async_front.jsm:1568:16
+@resource://gre/modules/osfile.jsm:12:30
+@resource://gre/modules/TelemetryStorage.sys.mjs:10:28
+_checkPendingPings@resource://gre/modules/TelemetrySend.sys.mjs:859:17
+setup@resource://gre/modules/TelemetrySend.sys.mjs:799:18
+setup@resource://gre/modules/TelemetrySend.sys.mjs:237:30
+setupTelemetry/this._delayedInitTask<@resource://gre/modules/TelemetryControllerParent.sys.mjs:824:36
+observe@resource://gre/modules/AsyncShutdown.sys.mjs:576:16
+
+WARNING: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "OS.File: flush I/O queued before profileBeforeChange"
+WARNING: addBlocker@resource://gre/modules/AsyncShutdown.sys.mjs:727:15
+addBlocker@resource://gre/modules/AsyncShutdown.sys.mjs:523:26
+addBlocker@resource://gre/modules/AsyncShutdown.sys.mjs:458:15
+setupShutdown@resource://gre/modules/osfile/osfile_async_front.jsm:1548:28
+@resource://gre/modules/osfile/osfile_async_front.jsm:1568:16
+@resource://gre/modules/osfile.jsm:12:30
+@resource://gre/modules/TelemetryStorage.sys.mjs:10:28
+_checkPendingPings@resource://gre/modules/TelemetrySend.sys.mjs:859:17
+setup@resource://gre/modules/TelemetrySend.sys.mjs:799:18
+setup@resource://gre/modules/TelemetrySend.sys.mjs:237:30
+setupTelemetry/this._delayedInitTask<@resource://gre/modules/TelemetryControllerParent.sys.mjs:824:36
+observe@resource://gre/modules/AsyncShutdown.sys.mjs:576:16
+
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 727: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "OS.File: flush I/O queued before profileBeforeChange"
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 727: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "OS.File: flush I/O queued before profileBeforeChange"
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 727: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "OS.File: flush I/O queued before profileBeforeChange"
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 727: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "OS.File: flush I/O queued before profileBeforeChange"
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 727: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "OS.File: flush I/O queued before profileBeforeChange"
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 727: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "OS.File: flush I/O queued before profileBeforeChange"
+1684426186516	geckodriver	INFO	Listening on 127.0.0.1:42409
+1684426186522	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/usr ... te" "--remote-debugging-port" "48301" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofilePhJQb7"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1684426188671	Marionette	INFO	Marionette enabled
+1684426188676	Marionette	INFO	Listening on port 38239
+Read port: 38239
+WebDriver BiDi listening on ws://127.0.0.1:48301
+1684426188815	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: ({})
+[ERROR glean_core] Error setting metrics feature config: Json(Error("EOF while parsing a value", line: 1, column: 0))
+DevTools listening on ws://127.0.0.1:48301/devtools/browser/8ee082b8-765d-4560-bc20-1805807fe320
+console.error: (new TypeError("this._searchProviderInfo is null", "resource:///modules/SearchSERPTelemetry.sys.mjs", 502))
+console.error: (new TypeError("linkMap is undefined", "resource://gre/modules/NewTabUtils.sys.mjs", 2019))
+[Child 12356, Main Thread] WARNING: JSWindowActorChild::SendRawMessage (Conduits, ConduitClosed) not sent: !CanSend() || !mManager || !mManager->CanSend(): file /build/firefox-sx15yn/firefox-113.0.1+build1/dom/ipc/jsactor/JSWindowActorChild.cpp:57
+[Child 12356, Main Thread] WARNING: JSWindowActorChild::SendRawMessage (Conduits, ConduitClosed) not sent: !CanSend() || !mManager || !mManager->CanSend(): file /build/firefox-sx15yn/firefox-113.0.1+build1/dom/ipc/jsactor/JSWindowActorChild.cpp:57
+[Child 12356, Main Thread] WARNING: JSWindowActorChild::SendRawMessage (Conduits, ConduitClosed) not sent: !CanSend() || !mManager || !mManager->CanSend(): file /build/firefox-sx15yn/firefox-113.0.1+build1/dom/ipc/jsactor/JSWindowActorChild.cpp:57
+[Child 12356, Main Thread] WARNING: JSWindowActorChild::SendRawMessage (Conduits, ConduitClosed) not sent: !CanSend() || !mManager || !mManager->CanSend(): file /build/firefox-sx15yn/firefox-113.0.1+build1/dom/ipc/jsactor/JSWindowActorChild.cpp:57
+[Child 12356, Main Thread] WARNING: JSWindowActorChild::SendRawMessage (Conduits, ConduitClosed) not sent: !CanSend() || !mManager || !mManager->CanSend(): file /build/firefox-sx15yn/firefox-113.0.1+build1/dom/ipc/jsactor/JSWindowActorChild.cpp:57
+[Child 12356, Main Thread] WARNING: JSWindowActorChild::SendRawMessage (Conduits, ConduitClosed) not sent: !CanSend() || !mManager || !mManager->CanSend(): file /build/firefox-sx15yn/firefox-113.0.1+build1/dom/ipc/jsactor/JSWindowActorChild.cpp:57
+[Child 12356, Main Thread] WARNING: JSWindowActorChild::SendRawMessage (Conduits, ConduitClosed) not sent: !CanSend() || !mManager || !mManager->CanSend(): file /build/firefox-sx15yn/firefox-113.0.1+build1/dom/ipc/jsactor/JSWindowActorChild.cpp:57
+[Child 12356, Main Thread] WARNING: JSWindowActorChild::SendRawMessage (Conduits, ConduitClosed) not sent: !CanSend() || !mManager || !mManager->CanSend(): file /build/firefox-sx15yn/firefox-113.0.1+build1/dom/ipc/jsactor/JSWindowActorChild.cpp:57
+1684426197833	Marionette	INFO	Stopped listening on port 38239
+WARNING: A blocker encountered an error while we were waiting.
+          Blocker:  Waiting for ping task
+          Phase: TelemetryController: Waiting for pending ping activity
+          State: (none)
+WARNING: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "OS.File: flush I/O queued before profileBeforeChange"
+WARNING: addBlocker@resource://gre/modules/AsyncShutdown.sys.mjs:727:15
+addBlocker@resource://gre/modules/AsyncShutdown.sys.mjs:523:26
+addBlocker@resource://gre/modules/AsyncShutdown.sys.mjs:458:15
+setupShutdown@resource://gre/modules/osfile/osfile_async_front.jsm:1548:28
+@resource://gre/modules/osfile/osfile_async_front.jsm:1568:16
+@resource://gre/modules/osfile.jsm:12:30
+@resource://gre/modules/TelemetryStorage.sys.mjs:10:28
+_checkPendingPings@resource://gre/modules/TelemetrySend.sys.mjs:859:17
+setup@resource://gre/modules/TelemetrySend.sys.mjs:799:18
+setup@resource://gre/modules/TelemetrySend.sys.mjs:237:30
+setupTelemetry/this._delayedInitTask<@resource://gre/modules/TelemetryControllerParent.sys.mjs:824:36
+observe@resource://gre/modules/AsyncShutdown.sys.mjs:576:16
+
+console.error: "TelemetryScheduler.shutdown - Already shut down"
+WARNING: A blocker encountered an error while we were waiting.
+          Blocker:  Waiting for ping task
+          Phase: TelemetryController: Waiting for pending ping activity
+          State: (none)
+WARNING: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "OS.File: flush I/O queued before profileBeforeChange"
+WARNING: addBlocker@resource://gre/modules/AsyncShutdown.sys.mjs:727:15
+addBlocker@resource://gre/modules/AsyncShutdown.sys.mjs:523:26
+addBlocker@resource://gre/modules/AsyncShutdown.sys.mjs:458:15
+setupShutdown@resource://gre/modules/osfile/osfile_async_front.jsm:1548:28
+@resource://gre/modules/osfile/osfile_async_front.jsm:1568:16
+@resource://gre/modules/osfile.jsm:12:30
+@resource://gre/modules/TelemetryStorage.sys.mjs:10:28
+_checkPendingPings@resource://gre/modules/TelemetrySend.sys.mjs:859:17
+setup@resource://gre/modules/TelemetrySend.sys.mjs:799:18
+setup@resource://gre/modules/TelemetrySend.sys.mjs:237:30
+setupTelemetry/this._delayedInitTask<@resource://gre/modules/TelemetryControllerParent.sys.mjs:824:36
+observe@resource://gre/modules/AsyncShutdown.sys.mjs:576:16
+
+WARNING: A blocker encountered an error while we were waiting.
+          Blocker:  Waiting for ping task
+          Phase: TelemetryController: Waiting for pending ping activity
+          State: (none)
+WARNING: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "OS.File: flush I/O queued before profileBeforeChange"
+WARNING: addBlocker@resource://gre/modules/AsyncShutdown.sys.mjs:727:15
+addBlocker@resource://gre/modules/AsyncShutdown.sys.mjs:523:26
+addBlocker@resource://gre/modules/AsyncShutdown.sys.mjs:458:15
+setupShutdown@resource://gre/modules/osfile/osfile_async_front.jsm:1548:28
+@resource://gre/modules/osfile/osfile_async_front.jsm:1568:16
+@resource://gre/modules/osfile.jsm:12:30
+@resource://gre/modules/TelemetryStorage.sys.mjs:10:28
+_checkPendingPings@resource://gre/modules/TelemetrySend.sys.mjs:859:17
+setup@resource://gre/modules/TelemetrySend.sys.mjs:799:18
+setup@resource://gre/modules/TelemetrySend.sys.mjs:237:30
+setupTelemetry/this._delayedInitTask<@resource://gre/modules/TelemetryControllerParent.sys.mjs:824:36
+observe@resource://gre/modules/AsyncShutdown.sys.mjs:576:16
+
+WARNING: A blocker encountered an error while we were waiting.
+          Blocker:  TelemetryController: shutting down
+          Phase: profile-before-change-telemetry
+          State: Error getting state: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "OS.File: flush I/O queued before profileBeforeChange" at addBlocker@resource://gre/modules/AsyncShutdown.sys.mjs:727:15
+addBlocker@resource://gre/modules/AsyncShutdown.sys.mjs:523:26
+addBlocker@resource://gre/modules/AsyncShutdown.sys.mjs:458:15
+setupShutdown@resource://gre/modules/osfile/osfile_async_front.jsm:1548:28
+@resource://gre/modules/osfile/osfile_async_front.jsm:1568:16
+@resource://gre/modules/osfile.jsm:12:30
+@resource://gre/modules/TelemetryStorage.sys.mjs:10:28
+_checkPendingPings@resource://gre/modules/TelemetrySend.sys.mjs:859:17
+setup@resource://gre/modules/TelemetrySend.sys.mjs:799:18
+setup@resource://gre/modules/TelemetrySend.sys.mjs:237:30
+setupTelemetry/this._delayedInitTask<@resource://gre/modules/TelemetryControllerParent.sys.mjs:824:36
+observe@resource://gre/modules/AsyncShutdown.sys.mjs:576:16
+
+WARNING: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "OS.File: flush I/O queued before profileBeforeChange"
+WARNING: addBlocker@resource://gre/modules/AsyncShutdown.sys.mjs:727:15
+addBlocker@resource://gre/modules/AsyncShutdown.sys.mjs:523:26
+addBlocker@resource://gre/modules/AsyncShutdown.sys.mjs:458:15
+setupShutdown@resource://gre/modules/osfile/osfile_async_front.jsm:1548:28
+@resource://gre/modules/osfile/osfile_async_front.jsm:1568:16
+@resource://gre/modules/osfile.jsm:12:30
+@resource://gre/modules/TelemetryStorage.sys.mjs:10:28
+_checkPendingPings@resource://gre/modules/TelemetrySend.sys.mjs:859:17
+setup@resource://gre/modules/TelemetrySend.sys.mjs:799:18
+setup@resource://gre/modules/TelemetrySend.sys.mjs:237:30
+setupTelemetry/this._delayedInitTask<@resource://gre/modules/TelemetryControllerParent.sys.mjs:824:36
+observe@resource://gre/modules/AsyncShutdown.sys.mjs:576:16
+
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 727: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "OS.File: flush I/O queued before profileBeforeChange"
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 727: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "OS.File: flush I/O queued before profileBeforeChange"
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 727: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "OS.File: flush I/O queued before profileBeforeChange"
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 727: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "OS.File: flush I/O queued before profileBeforeChange"
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 727: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "OS.File: flush I/O queued before profileBeforeChange"
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 727: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "OS.File: flush I/O queued before profileBeforeChange"
+1684426200018	geckodriver::marionette	ERROR	Failed to close browser connection: Socket not connected (os error 107)
+[Child 11147, Main Thread] WARNING: JSWindowActorChild::SendRawMessage (Conduits, ConduitClosed) not sent: !CanSend() || !mManager || !mManager->CanSend(): file /build/firefox-sx15yn/firefox-113.0.1+build1/dom/ipc/jsactor/JSWindowActorChild.cpp:57
+[Child 11147, Main Thread] WARNING: JSWindowActorChild::SendRawMessage (Conduits, ConduitClosed) not sent: !CanSend() || !mManager || !mManager->CanSend(): file /build/firefox-sx15yn/firefox-113.0.1+build1/dom/ipc/jsactor/JSWindowActorChild.cpp:57
+[Child 11147, Main Thread] WARNING: JSWindowActorChild::SendRawMessage (Conduits, ConduitClosed) not sent: !CanSend() || !mManager || !mManager->CanSend(): file /build/firefox-sx15yn/firefox-113.0.1+build1/dom/ipc/jsactor/JSWindowActorChild.cpp:57
+[Child 11147, Main Thread] WARNING: JSWindowActorChild::SendRawMessage (Conduits, ConduitClosed) not sent: !CanSend() || !mManager || !mManager->CanSend(): file /build/firefox-sx15yn/firefox-113.0.1+build1/dom/ipc/jsactor/JSWindowActorChild.cpp:57
+[Child 11147, Main Thread] WARNING: JSWindowActorChild::SendRawMessage (Conduits, ConduitClosed) not sent: !CanSend() || !mManager || !mManager->CanSend(): file /build/firefox-sx15yn/firefox-113.0.1+build1/dom/ipc/jsactor/JSWindowActorChild.cpp:57
+[Child 11147, Main Thread] WARNING: JSWindowActorChild::SendRawMessage (Conduits, ConduitClosed) not sent: !CanSend() || !mManager || !mManager->CanSend(): file /build/firefox-sx15yn/firefox-113.0.1+build1/dom/ipc/jsactor/JSWindowActorChild.cpp:57
+[Child 11147, Main Thread] WARNING: JSWindowActorChild::SendRawMessage (Conduits, ConduitClosed) not sent: !CanSend() || !mManager || !mManager->CanSend(): file /build/firefox-sx15yn/firefox-113.0.1+build1/dom/ipc/jsactor/JSWindowActorChild.cpp:57
+[Child 11147, Main Thread] WARNING: JSWindowActorChild::SendRawMessage (Conduits, ConduitClosed) not sent: !CanSend() || !mManager || !mManager->CanSend(): file /build/firefox-sx15yn/firefox-113.0.1+build1/dom/ipc/jsactor/JSWindowActorChild.cpp:57
+1684426201940	Marionette	INFO	Stopped listening on port 43293
+1684426219435	geckodriver	INFO	Listening on 127.0.0.1:47363
+1684426219441	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/usr ... te" "--remote-debugging-port" "55817" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofilepCWt8D"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1684426221697	Marionette	INFO	Marionette enabled
+1684426221703	Marionette	INFO	Listening on port 37279
+Read port: 37279
+WebDriver BiDi listening on ws://127.0.0.1:55817
+1684426221852	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: ({})
+[ERROR glean_core] Error setting metrics feature config: Json(Error("EOF while parsing a value", line: 1, column: 0))
+DevTools listening on ws://127.0.0.1:55817/devtools/browser/da8bbd0c-d11f-4db6-92c4-0b3b9bbb89e9
+console.error: (new TypeError("this._searchProviderInfo is null", "resource:///modules/SearchSERPTelemetry.sys.mjs", 502))
+console.error: (new TypeError("linkMap is undefined", "resource://gre/modules/NewTabUtils.sys.mjs", 2019))
+console.warn: LoginRecipes: "Falling back to a synchronous message for: http://localhost:3000."
+console.error: "update.locale" " file doesn't exist in either the application or GRE directories"
+1684426261969	Marionette	INFO	Stopped listening on port 37279
+[Child 12941, Main Thread] WARNING: JSWindowActorChild::SendRawMessage (Conduits, ConduitClosed) not sent: !CanSend() || !mManager || !mManager->CanSend(): file /build/firefox-sx15yn/firefox-113.0.1+build1/dom/ipc/jsactor/JSWindowActorChild.cpp:57
+[Child 12941, Main Thread] WARNING: JSWindowActorChild::SendRawMessage (Conduits, ConduitClosed) not sent: !CanSend() || !mManager || !mManager->CanSend(): file /build/firefox-sx15yn/firefox-113.0.1+build1/dom/ipc/jsactor/JSWindowActorChild.cpp:57
+[Child 12941, Main Thread] WARNING: JSWindowActorChild::SendRawMessage (Conduits, ConduitClosed) not sent: !CanSend() || !mManager || !mManager->CanSend(): file /build/firefox-sx15yn/firefox-113.0.1+build1/dom/ipc/jsactor/JSWindowActorChild.cpp:57
+[Child 12941, Main Thread] WARNING: JSWindowActorChild::SendRawMessage (Conduits, ConduitClosed) not sent: !CanSend() || !mManager || !mManager->CanSend(): file /build/firefox-sx15yn/firefox-113.0.1+build1/dom/ipc/jsactor/JSWindowActorChild.cpp:57
+[Child 12941, Main Thread] WARNING: JSWindowActorChild::SendRawMessage (Conduits, ConduitClosed) not sent: !CanSend() || !mManager || !mManager->CanSend(): file /build/firefox-sx15yn/firefox-113.0.1+build1/dom/ipc/jsactor/JSWindowActorChild.cpp:57
+[Child 12941, Main Thread] WARNING: JSWindowActorChild::SendRawMessage (Conduits, ConduitClosed) not sent: !CanSend() || !mManager || !mManager->CanSend(): file /build/firefox-sx15yn/firefox-113.0.1+build1/dom/ipc/jsactor/JSWindowActorChild.cpp:57
+[Child 12941, Main Thread] WARNING: JSWindowActorChild::SendRawMessage (Conduits, ConduitClosed) not sent: !CanSend() || !mManager || !mManager->CanSend(): file /build/firefox-sx15yn/firefox-113.0.1+build1/dom/ipc/jsactor/JSWindowActorChild.cpp:57
+[Child 12941, Main Thread] WARNING: JSWindowActorChild::SendRawMessage (Conduits, ConduitClosed) not sent: !CanSend() || !mManager || !mManager->CanSend(): file /build/firefox-sx15yn/firefox-113.0.1+build1/dom/ipc/jsactor/JSWindowActorChild.cpp:57
+1684426262211	geckodriver	INFO	Listening on 127.0.0.1:52229
+console.error: services.settings: 
+  Message: NetworkError: Network error: TypeError: NetworkError: Network request failed
+  Stack:
+    APIError@resource://services-settings/RemoteSettingsClient.sys.mjs:111:1
+NetworkError@resource://services-settings/RemoteSettingsClient.sys.mjs:115:5
+_adjustedError@resource://services-settings/RemoteSettingsClient.sys.mjs:911:14
+maybeSync@resource://services-settings/RemoteSettingsClient.sys.mjs:816:38
+observe@resource://gre/modules/AsyncShutdown.sys.mjs:576:16
+
+console.error: (new Error("IndexedDB: main/nimbus-preview getLastModified() IndexedDB:  execute() The application is shutting down", "resource://services-settings/IDBHelpers.jsm", 18))
+1684426262714	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/usr ... te" "--remote-debugging-port" "39859" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofilefL5NGx"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+WARNING: A blocker encountered an error while we were waiting.
+          Blocker:  Waiting for ping task
+          Phase: TelemetryController: Waiting for pending ping activity
+          State: (none)
+WARNING: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "OS.File: flush I/O queued before profileBeforeChange"
+WARNING: addBlocker@resource://gre/modules/AsyncShutdown.sys.mjs:727:15
+addBlocker@resource://gre/modules/AsyncShutdown.sys.mjs:523:26
+addBlocker@resource://gre/modules/AsyncShutdown.sys.mjs:458:15
+setupShutdown@resource://gre/modules/osfile/osfile_async_front.jsm:1548:28
+@resource://gre/modules/osfile/osfile_async_front.jsm:1568:16
+@resource://gre/modules/osfile.jsm:12:30
+@resource://gre/modules/TelemetryStorage.sys.mjs:10:28
+_checkPendingPings@resource://gre/modules/TelemetrySend.sys.mjs:859:17
+setup@resource://gre/modules/TelemetrySend.sys.mjs:799:18
+setup@resource://gre/modules/TelemetrySend.sys.mjs:237:30
+setupTelemetry/this._delayedInitTask<@resource://gre/modules/TelemetryControllerParent.sys.mjs:824:36
+observe@resource://gre/modules/AsyncShutdown.sys.mjs:576:16
+
+console.error: "TelemetryScheduler.shutdown - Already shut down"
+WARNING: A blocker encountered an error while we were waiting.
+          Blocker:  Waiting for ping task
+          Phase: TelemetryController: Waiting for pending ping activity
+          State: (none)
+WARNING: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "OS.File: flush I/O queued before profileBeforeChange"
+WARNING: addBlocker@resource://gre/modules/AsyncShutdown.sys.mjs:727:15
+addBlocker@resource://gre/modules/AsyncShutdown.sys.mjs:523:26
+addBlocker@resource://gre/modules/AsyncShutdown.sys.mjs:458:15
+setupShutdown@resource://gre/modules/osfile/osfile_async_front.jsm:1548:28
+@resource://gre/modules/osfile/osfile_async_front.jsm:1568:16
+@resource://gre/modules/osfile.jsm:12:30
+@resource://gre/modules/TelemetryStorage.sys.mjs:10:28
+_checkPendingPings@resource://gre/modules/TelemetrySend.sys.mjs:859:17
+setup@resource://gre/modules/TelemetrySend.sys.mjs:799:18
+setup@resource://gre/modules/TelemetrySend.sys.mjs:237:30
+setupTelemetry/this._delayedInitTask<@resource://gre/modules/TelemetryControllerParent.sys.mjs:824:36
+observe@resource://gre/modules/AsyncShutdown.sys.mjs:576:16
+
+WARNING: A blocker encountered an error while we were waiting.
+          Blocker:  Waiting for ping task
+          Phase: TelemetryController: Waiting for pending ping activity
+          State: (none)
+WARNING: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "OS.File: flush I/O queued before profileBeforeChange"
+WARNING: addBlocker@resource://gre/modules/AsyncShutdown.sys.mjs:727:15
+addBlocker@resource://gre/modules/AsyncShutdown.sys.mjs:523:26
+addBlocker@resource://gre/modules/AsyncShutdown.sys.mjs:458:15
+setupShutdown@resource://gre/modules/osfile/osfile_async_front.jsm:1548:28
+@resource://gre/modules/osfile/osfile_async_front.jsm:1568:16
+@resource://gre/modules/osfile.jsm:12:30
+@resource://gre/modules/TelemetryStorage.sys.mjs:10:28
+_checkPendingPings@resource://gre/modules/TelemetrySend.sys.mjs:859:17
+setup@resource://gre/modules/TelemetrySend.sys.mjs:799:18
+setup@resource://gre/modules/TelemetrySend.sys.mjs:237:30
+setupTelemetry/this._delayedInitTask<@resource://gre/modules/TelemetryControllerParent.sys.mjs:824:36
+observe@resource://gre/modules/AsyncShutdown.sys.mjs:576:16
+
+WARNING: A blocker encountered an error while we were waiting.
+          Blocker:  TelemetryController: shutting down
+          Phase: profile-before-change-telemetry
+          State: Error getting state: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "OS.File: flush I/O queued before profileBeforeChange" at addBlocker@resource://gre/modules/AsyncShutdown.sys.mjs:727:15
+addBlocker@resource://gre/modules/AsyncShutdown.sys.mjs:523:26
+addBlocker@resource://gre/modules/AsyncShutdown.sys.mjs:458:15
+setupShutdown@resource://gre/modules/osfile/osfile_async_front.jsm:1548:28
+@resource://gre/modules/osfile/osfile_async_front.jsm:1568:16
+@resource://gre/modules/osfile.jsm:12:30
+@resource://gre/modules/TelemetryStorage.sys.mjs:10:28
+_checkPendingPings@resource://gre/modules/TelemetrySend.sys.mjs:859:17
+setup@resource://gre/modules/TelemetrySend.sys.mjs:799:18
+setup@resource://gre/modules/TelemetrySend.sys.mjs:237:30
+setupTelemetry/this._delayedInitTask<@resource://gre/modules/TelemetryControllerParent.sys.mjs:824:36
+observe@resource://gre/modules/AsyncShutdown.sys.mjs:576:16
+
+WARNING: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "OS.File: flush I/O queued before profileBeforeChange"
+WARNING: addBlocker@resource://gre/modules/AsyncShutdown.sys.mjs:727:15
+addBlocker@resource://gre/modules/AsyncShutdown.sys.mjs:523:26
+addBlocker@resource://gre/modules/AsyncShutdown.sys.mjs:458:15
+setupShutdown@resource://gre/modules/osfile/osfile_async_front.jsm:1548:28
+@resource://gre/modules/osfile/osfile_async_front.jsm:1568:16
+@resource://gre/modules/osfile.jsm:12:30
+@resource://gre/modules/TelemetryStorage.sys.mjs:10:28
+_checkPendingPings@resource://gre/modules/TelemetrySend.sys.mjs:859:17
+setup@resource://gre/modules/TelemetrySend.sys.mjs:799:18
+setup@resource://gre/modules/TelemetrySend.sys.mjs:237:30
+setupTelemetry/this._delayedInitTask<@resource://gre/modules/TelemetryControllerParent.sys.mjs:824:36
+observe@resource://gre/modules/AsyncShutdown.sys.mjs:576:16
+
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 727: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "OS.File: flush I/O queued before profileBeforeChange"
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 727: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "OS.File: flush I/O queued before profileBeforeChange"
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 727: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "OS.File: flush I/O queued before profileBeforeChange"
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 727: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "OS.File: flush I/O queued before profileBeforeChange"
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 727: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "OS.File: flush I/O queued before profileBeforeChange"
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 727: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "OS.File: flush I/O queued before profileBeforeChange"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1684426264711	Marionette	INFO	Marionette enabled
+1684426264717	Marionette	INFO	Listening on port 43817
+Read port: 43817
+WebDriver BiDi listening on ws://127.0.0.1:39859
+1684426264868	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: ({})
+[ERROR glean_core] Error setting metrics feature config: Json(Error("EOF while parsing a value", line: 1, column: 0))
+DevTools listening on ws://127.0.0.1:39859/devtools/browser/46cd9c98-6aef-4592-9d06-a83e2f6d6387
+console.error: (new TypeError("this._searchProviderInfo is null", "resource:///modules/SearchSERPTelemetry.sys.mjs", 502))
+console.error: (new TypeError("linkMap is undefined", "resource://gre/modules/NewTabUtils.sys.mjs", 2019))
+[Child 13510, Main Thread] WARNING: JSWindowActorChild::SendRawMessage (Conduits, ConduitClosed) not sent: !CanSend() || !mManager || !mManager->CanSend(): file /build/firefox-sx15yn/firefox-113.0.1+build1/dom/ipc/jsactor/JSWindowActorChild.cpp:57
+[Child 13510, Main Thread] WARNING: JSWindowActorChild::SendRawMessage (Conduits, ConduitClosed) not sent: !CanSend() || !mManager || !mManager->CanSend(): file /build/firefox-sx15yn/firefox-113.0.1+build1/dom/ipc/jsactor/JSWindowActorChild.cpp:57
+[Child 13510, Main Thread] WARNING: JSWindowActorChild::SendRawMessage (Conduits, ConduitClosed) not sent: !CanSend() || !mManager || !mManager->CanSend(): file /build/firefox-sx15yn/firefox-113.0.1+build1/dom/ipc/jsactor/JSWindowActorChild.cpp:57
+[Child 13510, Main Thread] WARNING: JSWindowActorChild::SendRawMessage (Conduits, ConduitClosed) not sent: !CanSend() || !mManager || !mManager->CanSend(): file /build/firefox-sx15yn/firefox-113.0.1+build1/dom/ipc/jsactor/JSWindowActorChild.cpp:57
+[Child 13510, Main Thread] WARNING: JSWindowActorChild::SendRawMessage (Conduits, ConduitClosed) not sent: !CanSend() || !mManager || !mManager->CanSend(): file /build/firefox-sx15yn/firefox-113.0.1+build1/dom/ipc/jsactor/JSWindowActorChild.cpp:57
+[Child 13510, Main Thread] WARNING: JSWindowActorChild::SendRawMessage (Conduits, ConduitClosed) not sent: !CanSend() || !mManager || !mManager->CanSend(): file /build/firefox-sx15yn/firefox-113.0.1+build1/dom/ipc/jsactor/JSWindowActorChild.cpp:57
+[Child 13510, Main Thread] WARNING: JSWindowActorChild::SendRawMessage (Conduits, ConduitClosed) not sent: !CanSend() || !mManager || !mManager->CanSend(): file /build/firefox-sx15yn/firefox-113.0.1+build1/dom/ipc/jsactor/JSWindowActorChild.cpp:57
+[Child 13510, Main Thread] WARNING: JSWindowActorChild::SendRawMessage (Conduits, ConduitClosed) not sent: !CanSend() || !mManager || !mManager->CanSend(): file /build/firefox-sx15yn/firefox-113.0.1+build1/dom/ipc/jsactor/JSWindowActorChild.cpp:57
+1684426272714	Marionette	INFO	Stopped listening on port 43817
+WARNING: A blocker encountered an error while we were waiting.
+          Blocker:  Waiting for ping task
+          Phase: TelemetryController: Waiting for pending ping activity
+          State: (none)
+WARNING: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "OS.File: flush I/O queued before profileBeforeChange"
+WARNING: addBlocker@resource://gre/modules/AsyncShutdown.sys.mjs:727:15
+addBlocker@resource://gre/modules/AsyncShutdown.sys.mjs:523:26
+addBlocker@resource://gre/modules/AsyncShutdown.sys.mjs:458:15
+setupShutdown@resource://gre/modules/osfile/osfile_async_front.jsm:1548:28
+@resource://gre/modules/osfile/osfile_async_front.jsm:1568:16
+@resource://gre/modules/osfile.jsm:12:30
+@resource://gre/modules/TelemetryStorage.sys.mjs:10:28
+_checkPendingPings@resource://gre/modules/TelemetrySend.sys.mjs:859:17
+setup@resource://gre/modules/TelemetrySend.sys.mjs:799:18
+setup@resource://gre/modules/TelemetrySend.sys.mjs:237:30
+setupTelemetry/this._delayedInitTask<@resource://gre/modules/TelemetryControllerParent.sys.mjs:824:36
+observe@resource://gre/modules/AsyncShutdown.sys.mjs:576:16
+
+console.error: "TelemetryScheduler.shutdown - Already shut down"
+WARNING: A blocker encountered an error while we were waiting.
+          Blocker:  Waiting for ping task
+          Phase: TelemetryController: Waiting for pending ping activity
+          State: (none)
+WARNING: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "OS.File: flush I/O queued before profileBeforeChange"
+WARNING: addBlocker@resource://gre/modules/AsyncShutdown.sys.mjs:727:15
+addBlocker@resource://gre/modules/AsyncShutdown.sys.mjs:523:26
+addBlocker@resource://gre/modules/AsyncShutdown.sys.mjs:458:15
+setupShutdown@resource://gre/modules/osfile/osfile_async_front.jsm:1548:28
+@resource://gre/modules/osfile/osfile_async_front.jsm:1568:16
+@resource://gre/modules/osfile.jsm:12:30
+@resource://gre/modules/TelemetryStorage.sys.mjs:10:28
+_checkPendingPings@resource://gre/modules/TelemetrySend.sys.mjs:859:17
+setup@resource://gre/modules/TelemetrySend.sys.mjs:799:18
+setup@resource://gre/modules/TelemetrySend.sys.mjs:237:30
+setupTelemetry/this._delayedInitTask<@resource://gre/modules/TelemetryControllerParent.sys.mjs:824:36
+observe@resource://gre/modules/AsyncShutdown.sys.mjs:576:16
+
+WARNING: A blocker encountered an error while we were waiting.
+          Blocker:  Waiting for ping task
+          Phase: TelemetryController: Waiting for pending ping activity
+          State: (none)
+WARNING: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "OS.File: flush I/O queued before profileBeforeChange"
+WARNING: addBlocker@resource://gre/modules/AsyncShutdown.sys.mjs:727:15
+addBlocker@resource://gre/modules/AsyncShutdown.sys.mjs:523:26
+addBlocker@resource://gre/modules/AsyncShutdown.sys.mjs:458:15
+setupShutdown@resource://gre/modules/osfile/osfile_async_front.jsm:1548:28
+@resource://gre/modules/osfile/osfile_async_front.jsm:1568:16
+@resource://gre/modules/osfile.jsm:12:30
+@resource://gre/modules/TelemetryStorage.sys.mjs:10:28
+_checkPendingPings@resource://gre/modules/TelemetrySend.sys.mjs:859:17
+setup@resource://gre/modules/TelemetrySend.sys.mjs:799:18
+setup@resource://gre/modules/TelemetrySend.sys.mjs:237:30
+setupTelemetry/this._delayedInitTask<@resource://gre/modules/TelemetryControllerParent.sys.mjs:824:36
+observe@resource://gre/modules/AsyncShutdown.sys.mjs:576:16
+
+WARNING: A blocker encountered an error while we were waiting.
+          Blocker:  TelemetryController: shutting down
+          Phase: profile-before-change-telemetry
+          State: Error getting state: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "OS.File: flush I/O queued before profileBeforeChange" at addBlocker@resource://gre/modules/AsyncShutdown.sys.mjs:727:15
+addBlocker@resource://gre/modules/AsyncShutdown.sys.mjs:523:26
+addBlocker@resource://gre/modules/AsyncShutdown.sys.mjs:458:15
+setupShutdown@resource://gre/modules/osfile/osfile_async_front.jsm:1548:28
+@resource://gre/modules/osfile/osfile_async_front.jsm:1568:16
+@resource://gre/modules/osfile.jsm:12:30
+@resource://gre/modules/TelemetryStorage.sys.mjs:10:28
+_checkPendingPings@resource://gre/modules/TelemetrySend.sys.mjs:859:17
+setup@resource://gre/modules/TelemetrySend.sys.mjs:799:18
+setup@resource://gre/modules/TelemetrySend.sys.mjs:237:30
+setupTelemetry/this._delayedInitTask<@resource://gre/modules/TelemetryControllerParent.sys.mjs:824:36
+observe@resource://gre/modules/AsyncShutdown.sys.mjs:576:16
+
+WARNING: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "OS.File: flush I/O queued before profileBeforeChange"
+WARNING: addBlocker@resource://gre/modules/AsyncShutdown.sys.mjs:727:15
+addBlocker@resource://gre/modules/AsyncShutdown.sys.mjs:523:26
+addBlocker@resource://gre/modules/AsyncShutdown.sys.mjs:458:15
+setupShutdown@resource://gre/modules/osfile/osfile_async_front.jsm:1548:28
+@resource://gre/modules/osfile/osfile_async_front.jsm:1568:16
+@resource://gre/modules/osfile.jsm:12:30
+@resource://gre/modules/TelemetryStorage.sys.mjs:10:28
+_checkPendingPings@resource://gre/modules/TelemetrySend.sys.mjs:859:17
+setup@resource://gre/modules/TelemetrySend.sys.mjs:799:18
+setup@resource://gre/modules/TelemetrySend.sys.mjs:237:30
+setupTelemetry/this._delayedInitTask<@resource://gre/modules/TelemetryControllerParent.sys.mjs:824:36
+observe@resource://gre/modules/AsyncShutdown.sys.mjs:576:16
+
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 727: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "OS.File: flush I/O queued before profileBeforeChange"
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 727: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "OS.File: flush I/O queued before profileBeforeChange"
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 727: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "OS.File: flush I/O queued before profileBeforeChange"
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 727: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "OS.File: flush I/O queued before profileBeforeChange"
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 727: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "OS.File: flush I/O queued before profileBeforeChange"
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 727: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "OS.File: flush I/O queued before profileBeforeChange"
+1684426273997	geckodriver::marionette	ERROR	Failed to close browser connection: Socket not connected (os error 107)
+1684516334082	geckodriver	INFO	Listening on 127.0.0.1:57079
+1684516334612	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/usr ... te" "--remote-debugging-port" "53605" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileK5xs3G"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1684516338319	Marionette	INFO	Marionette enabled
+1684516338327	Marionette	INFO	Listening on port 39517
+Read port: 39517
+WebDriver BiDi listening on ws://127.0.0.1:53605
+1684516338825	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: ({})
+[ERROR glean_core] Error setting metrics feature config: Json(Error("EOF while parsing a value", line: 1, column: 0))
+DevTools listening on ws://127.0.0.1:53605/devtools/browser/19d962e1-60af-4c7e-953b-97e732367c9e
+console.error: (new TypeError("linkMap is undefined", "resource://gre/modules/NewTabUtils.sys.mjs", 2019))
+JavaScript error: http://localhost:3000/_next/static/chunks/main-app.js line 982 > eval, line 900: Error: Algo está errado
+JavaScript error: http://localhost:3000/_next/static/chunks/main-app.js line 982 > eval, line 900: Error: Algo está errado
+JavaScript error: http://localhost:3000/_next/static/chunks/main-app.js line 982 > eval, line 900: Error: Algo está errado
+JavaScript error: http://localhost:3000/_next/static/chunks/main-app.js line 982 > eval, line 900: Error: Algo está errado
+JavaScript error: http://localhost:3000/_next/static/chunks/main-app.js line 982 > eval, line 900: Error: Algo está errado
+JavaScript error: http://localhost:3000/_next/static/chunks/main-app.js line 982 > eval, line 900: Error: Algo está errado
+JavaScript error: http://localhost:3000/_next/static/chunks/main-app.js line 982 > eval, line 900: Error: Algo está errado
+JavaScript error: http://localhost:3000/_next/static/chunks/main-app.js line 982 > eval, line 900: Error: Algo está errado
+JavaScript error: http://localhost:3000/_next/static/chunks/main-app.js line 982 > eval, line 900: Error: Algo está errado
+JavaScript error: http://localhost:3000/_next/static/chunks/main-app.js line 982 > eval, line 900: Error: Algo está errado
+1684516349259	geckodriver	INFO	Listening on 127.0.0.1:50955
+1684516349311	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/usr ... te" "--remote-debugging-port" "58339" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileTsin3z"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1684516351483	Marionette	INFO	Marionette enabled
+1684516351489	Marionette	INFO	Listening on port 42051
+Read port: 42051
+WebDriver BiDi listening on ws://127.0.0.1:58339
+1684516351622	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: ({})
+[ERROR glean_core] Error setting metrics feature config: Json(Error("EOF while parsing a value", line: 1, column: 0))
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://accounts.google.com."
+DevTools listening on ws://127.0.0.1:58339/devtools/browser/eb9b83da-e538-4061-b080-574568f70854
+console.error: (new TypeError("this._searchProviderInfo is null", "resource:///modules/SearchSERPTelemetry.sys.mjs", 502))
+console.error: (new TypeError("linkMap is undefined", "resource://gre/modules/NewTabUtils.sys.mjs", 2019))
+JavaScript error: http://localhost:3000/_next/static/chunks/main-app.js line 982 > eval, line 900: Error: Algo está errado
+JavaScript error: http://localhost:3000/_next/static/chunks/main-app.js line 982 > eval, line 900: Error: Algo está errado
+JavaScript error: http://localhost:3000/_next/static/chunks/main-app.js line 982 > eval, line 900: Error: Algo está errado
+JavaScript error: http://localhost:3000/_next/static/chunks/main-app.js line 982 > eval, line 900: Error: Algo está errado
+JavaScript error: http://localhost:3000/_next/static/chunks/main-app.js line 982 > eval, line 900: Error: Algo está errado
+JavaScript error: http://localhost:3000/_next/static/chunks/main-app.js line 982 > eval, line 900: Error: Algo está errado
+JavaScript error: http://localhost:3000/_next/static/chunks/main-app.js line 982 > eval, line 900: Error: Algo está errado
+JavaScript error: http://localhost:3000/_next/static/chunks/main-app.js line 982 > eval, line 900: Error: Algo está errado
+JavaScript error: http://localhost:3000/_next/static/chunks/main-app.js line 982 > eval, line 900: Error: Algo está errado
+JavaScript error: http://localhost:3000/_next/static/chunks/main-app.js line 982 > eval, line 900: Error: Algo está errado
+[Child 11692, Main Thread] WARNING: JSWindowActorChild::SendRawMessage (Conduits, ConduitClosed) not sent: !CanSend() || !mManager || !mManager->CanSend(): file /build/firefox-sx15yn/firefox-113.0.1+build1/dom/ipc/jsactor/JSWindowActorChild.cpp:57
+[Child 11692, Main Thread] WARNING: JSWindowActorChild::SendRawMessage (Conduits, ConduitClosed) not sent: !CanSend() || !mManager || !mManager->CanSend(): file /build/firefox-sx15yn/firefox-113.0.1+build1/dom/ipc/jsactor/JSWindowActorChild.cpp:57
+[Child 11692, Main Thread] WARNING: JSWindowActorChild::SendRawMessage (Conduits, ConduitClosed) not sent: !CanSend() || !mManager || !mManager->CanSend(): file /build/firefox-sx15yn/firefox-113.0.1+build1/dom/ipc/jsactor/JSWindowActorChild.cpp:57
+[Child 11692, Main Thread] WARNING: JSWindowActorChild::SendRawMessage (Conduits, ConduitClosed) not sent: !CanSend() || !mManager || !mManager->CanSend(): file /build/firefox-sx15yn/firefox-113.0.1+build1/dom/ipc/jsactor/JSWindowActorChild.cpp:57
+[Child 11692, Main Thread] WARNING: JSWindowActorChild::SendRawMessage (Conduits, ConduitClosed) not sent: !CanSend() || !mManager || !mManager->CanSend(): file /build/firefox-sx15yn/firefox-113.0.1+build1/dom/ipc/jsactor/JSWindowActorChild.cpp:57
+[Child 11692, Main Thread] WARNING: JSWindowActorChild::SendRawMessage (Conduits, ConduitClosed) not sent: !CanSend() || !mManager || !mManager->CanSend(): file /build/firefox-sx15yn/firefox-113.0.1+build1/dom/ipc/jsactor/JSWindowActorChild.cpp:57
+[Child 11692, Main Thread] WARNING: JSWindowActorChild::SendRawMessage (Conduits, ConduitClosed) not sent: !CanSend() || !mManager || !mManager->CanSend(): file /build/firefox-sx15yn/firefox-113.0.1+build1/dom/ipc/jsactor/JSWindowActorChild.cpp:57
+[Child 11692, Main Thread] WARNING: JSWindowActorChild::SendRawMessage (Conduits, ConduitClosed) not sent: !CanSend() || !mManager || !mManager->CanSend(): file /build/firefox-sx15yn/firefox-113.0.1+build1/dom/ipc/jsactor/JSWindowActorChild.cpp:57
+1684516359427	Marionette	INFO	Stopped listening on port 42051
+JavaScript error: resource://gre/modules/UrlClassifierListManager.jsm, line 693: TypeError: this.tablesData[table] is undefined
+JavaScript error: chrome://remote/content/marionette/cert.sys.mjs, line 51: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+1684516359495	WebDriver BiDi	ERROR	Failed to stop protocol: [Exception... "Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]"  nsresult: "0x80040111 (NS_ERROR_NOT_AVAILABLE)"  location: "JS frame :: chrome://remote/content/marionette/cert.sys.mjs :: allowAllCerts.disable :: line 51"  data: no] Stack trace: allowAllCerts.disable()@cert.sys.mjs:51
+destroy()@Session.sys.mjs:207
+deleteSession()@WebDriverBiDi.sys.mjs:142
+stop()@WebDriverBiDi.sys.mjs:230
+WARNING: A blocker encountered an error while we were waiting.
+          Blocker:  Waiting for ping task
+          Phase: TelemetryController: Waiting for pending ping activity
+          State: (none)
+WARNING: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "OS.File: flush I/O queued before profileBeforeChange"
+WARNING: addBlocker@resource://gre/modules/AsyncShutdown.sys.mjs:727:15
+addBlocker@resource://gre/modules/AsyncShutdown.sys.mjs:523:26
+addBlocker@resource://gre/modules/AsyncShutdown.sys.mjs:458:15
+setupShutdown@resource://gre/modules/osfile/osfile_async_front.jsm:1548:28
+@resource://gre/modules/osfile/osfile_async_front.jsm:1568:16
+@resource://gre/modules/osfile.jsm:12:30
+@resource://gre/modules/TelemetryStorage.sys.mjs:10:28
+_checkPendingPings@resource://gre/modules/TelemetrySend.sys.mjs:859:17
+setup@resource://gre/modules/TelemetrySend.sys.mjs:799:18
+setup@resource://gre/modules/TelemetrySend.sys.mjs:237:30
+setupTelemetry/this._delayedInitTask<@resource://gre/modules/TelemetryControllerParent.sys.mjs:824:36
+observe@resource://gre/modules/AsyncShutdown.sys.mjs:576:16
+
+console.error: "TelemetryScheduler.shutdown - Already shut down"
+WARNING: A blocker encountered an error while we were waiting.
+          Blocker:  Waiting for ping task
+          Phase: TelemetryController: Waiting for pending ping activity
+          State: (none)
+WARNING: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "OS.File: flush I/O queued before profileBeforeChange"
+WARNING: addBlocker@resource://gre/modules/AsyncShutdown.sys.mjs:727:15
+addBlocker@resource://gre/modules/AsyncShutdown.sys.mjs:523:26
+addBlocker@resource://gre/modules/AsyncShutdown.sys.mjs:458:15
+setupShutdown@resource://gre/modules/osfile/osfile_async_front.jsm:1548:28
+@resource://gre/modules/osfile/osfile_async_front.jsm:1568:16
+@resource://gre/modules/osfile.jsm:12:30
+@resource://gre/modules/TelemetryStorage.sys.mjs:10:28
+_checkPendingPings@resource://gre/modules/TelemetrySend.sys.mjs:859:17
+setup@resource://gre/modules/TelemetrySend.sys.mjs:799:18
+setup@resource://gre/modules/TelemetrySend.sys.mjs:237:30
+setupTelemetry/this._delayedInitTask<@resource://gre/modules/TelemetryControllerParent.sys.mjs:824:36
+observe@resource://gre/modules/AsyncShutdown.sys.mjs:576:16
+
+WARNING: A blocker encountered an error while we were waiting.
+          Blocker:  Waiting for ping task
+          Phase: TelemetryController: Waiting for pending ping activity
+          State: (none)
+WARNING: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "OS.File: flush I/O queued before profileBeforeChange"
+WARNING: addBlocker@resource://gre/modules/AsyncShutdown.sys.mjs:727:15
+addBlocker@resource://gre/modules/AsyncShutdown.sys.mjs:523:26
+addBlocker@resource://gre/modules/AsyncShutdown.sys.mjs:458:15
+setupShutdown@resource://gre/modules/osfile/osfile_async_front.jsm:1548:28
+@resource://gre/modules/osfile/osfile_async_front.jsm:1568:16
+@resource://gre/modules/osfile.jsm:12:30
+@resource://gre/modules/TelemetryStorage.sys.mjs:10:28
+_checkPendingPings@resource://gre/modules/TelemetrySend.sys.mjs:859:17
+setup@resource://gre/modules/TelemetrySend.sys.mjs:799:18
+setup@resource://gre/modules/TelemetrySend.sys.mjs:237:30
+setupTelemetry/this._delayedInitTask<@resource://gre/modules/TelemetryControllerParent.sys.mjs:824:36
+observe@resource://gre/modules/AsyncShutdown.sys.mjs:576:16
+
+WARNING: A blocker encountered an error while we were waiting.
+          Blocker:  TelemetryController: shutting down
+          Phase: profile-before-change-telemetry
+          State: Error getting state: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "OS.File: flush I/O queued before profileBeforeChange" at addBlocker@resource://gre/modules/AsyncShutdown.sys.mjs:727:15
+addBlocker@resource://gre/modules/AsyncShutdown.sys.mjs:523:26
+addBlocker@resource://gre/modules/AsyncShutdown.sys.mjs:458:15
+setupShutdown@resource://gre/modules/osfile/osfile_async_front.jsm:1548:28
+@resource://gre/modules/osfile/osfile_async_front.jsm:1568:16
+@resource://gre/modules/osfile.jsm:12:30
+@resource://gre/modules/TelemetryStorage.sys.mjs:10:28
+_checkPendingPings@resource://gre/modules/TelemetrySend.sys.mjs:859:17
+setup@resource://gre/modules/TelemetrySend.sys.mjs:799:18
+setup@resource://gre/modules/TelemetrySend.sys.mjs:237:30
+setupTelemetry/this._delayedInitTask<@resource://gre/modules/TelemetryControllerParent.sys.mjs:824:36
+observe@resource://gre/modules/AsyncShutdown.sys.mjs:576:16
+
+WARNING: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "OS.File: flush I/O queued before profileBeforeChange"
+WARNING: addBlocker@resource://gre/modules/AsyncShutdown.sys.mjs:727:15
+addBlocker@resource://gre/modules/AsyncShutdown.sys.mjs:523:26
+addBlocker@resource://gre/modules/AsyncShutdown.sys.mjs:458:15
+setupShutdown@resource://gre/modules/osfile/osfile_async_front.jsm:1548:28
+@resource://gre/modules/osfile/osfile_async_front.jsm:1568:16
+@resource://gre/modules/osfile.jsm:12:30
+@resource://gre/modules/TelemetryStorage.sys.mjs:10:28
+_checkPendingPings@resource://gre/modules/TelemetrySend.sys.mjs:859:17
+setup@resource://gre/modules/TelemetrySend.sys.mjs:799:18
+setup@resource://gre/modules/TelemetrySend.sys.mjs:237:30
+setupTelemetry/this._delayedInitTask<@resource://gre/modules/TelemetryControllerParent.sys.mjs:824:36
+observe@resource://gre/modules/AsyncShutdown.sys.mjs:576:16
+
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 727: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "OS.File: flush I/O queued before profileBeforeChange"
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 727: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "OS.File: flush I/O queued before profileBeforeChange"
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 727: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "OS.File: flush I/O queued before profileBeforeChange"
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 727: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "OS.File: flush I/O queued before profileBeforeChange"
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 727: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "OS.File: flush I/O queued before profileBeforeChange"
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 727: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "OS.File: flush I/O queued before profileBeforeChange"
+1684516360304	geckodriver::marionette	ERROR	Failed to close browser connection: Socket not connected (os error 107)
+console.error: "update.locale" " file doesn't exist in either the application or GRE directories"
+JavaScript warning: https://accounts.google.com/v3/signin/identifier?dsh=S-251450113%3A1684516352651659&access_type=offline&client_id=16421419963-k2angvap8hdeficq8j6cbhj377924tqh.apps.googleusercontent.com&o2v=1&redirect_uri=http%3A%2F%2F127.0.0.1%3A5000%2Fuser%2Fauth%2Fcallback&response_type=code&scope=https%3A%2F%2Fwww.googleapis.com%2Fauth%2Fuserinfo.profile+https%3A%2F%2Fwww.googleapis.com%2Fauth%2Fuserinfo.email+openid&service=lso&state=J8GSiW5EyFP87TvWBOxS4mkw5iBcYc&flowName=GeneralOAuthFlow&continue=https%3A%2F%2Faccounts.google.com%2Fsignin%2Foauth%2Fconsent%3Fauthuser%3Dunknown%26part%3DAJi8hAPJbMM-2ZVwJFdTMoCzVGHIbEx1Jc6z4u_KUM6JYuqvlAIeDqvG2QsBC68H8D3-CpCPClTmb1GuS_aQqgZkAy6pKtVNJRYIuurlCTlBv8gI0fSH1bqk5WQhFIckqcosY_LNcZlOoQxoChrAQQEZFQfeTeL5FOAvV9ViacNzCBAeQcsZ66L2Hdm4HxHshnqbj0J6Vvk3t3C7cBe2lPy15kVJfz0ax_u7pOZdJT_kxU5FNQ4LdwN4Zjjz0I1stuS58ScjFARDi1lOMtL6FUQ2qtykIrcuw3IZo-l0PueEl5JpdiELUCO59adw0rhZqoCbBIYnhRcO5vp_PGvuL-dPdW1Lp3Bzz-7-fqOMzeqFcC1I7pQ_zdu4j9n-Q9PaFSm4yLWTQwDtrnUkKfk0zSTu0-TBSSVh3WhpXeB_bDx9xNgmwDj33fSmo_uYYiZWzAMU4rejf0qdPBPy4-e5Lx-cILzpIV8kjg%26as%3DS-251450113%253A1684516352651659%26client_id%3D16421419963-k2angvap8hdeficq8j6cbhj377924tqh.apps.googleusercontent.com%23&app_domain=http%3A%2F%2F127.0.0.1%3A5000&rart=ANgoxcfdLY4nIpK-aVXamGFon9CXobf4c_61meclbji0iTXv3zLIuGNpBXgdTslK_K7ejF0rww_ye2Fjv9hOp6KNChMAZ4a7dg line 205 > injectedScript line 2 > eval line 3489 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://accounts.google.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://accounts.google.com."
+JavaScript warning: https://accounts.google.com/v3/signin/identifier?opparams=%253Frart%253DANgoxcfdLY4nIpK-aVXamGFon9CXobf4c_61meclbji0iTXv3zLIuGNpBXgdTslK_K7ejF0rww_ye2Fjv9hOp6KNChMAZ4a7dg%2526flowName%253DGeneralOAuthFlow%2526service%253Dlso%2526dsh%253DS-251450113%25253A1684516352651659&dsh=S-251450113%3A1684516352651659&access_type=offline&app_domain=http%3A%2F%2F127.0.0.1%3A5000&client_id=16421419963-k2angvap8hdeficq8j6cbhj377924tqh.apps.googleusercontent.com&continue=https%3A%2F%2Faccounts.google.com%2Fsignin%2Foauth%2Fconsent%3Fauthuser%3Dunknown%26part%3DAJi8hANy5ht2GOndgtll-ICzZUsMHRu3z-mufQCJpsvKtEnI3SVgW3CLJCE9wrcCO9QMnxM0NHcfWZYC7APOTla_enN6ThgV4-rEfyUMIPPfGqVcSzYnPo7FpalMwNyadfvnaKHRD4yAqnIduNurQJ7Khy1CFPsb9FMQGIRZo6TLUnrY93nP-V6pJepB1gSgySEs0cziorrLLh1D_hsBNfFF_i6k5xt6mqEmSXFvYFUEi9Ry-Ly-_wO1NwltHUC5CvOxFna7YxulfOc4-70NIqko1J4sYEui3Ltihx_8spnKj_NUlbLSXAhocXDijmwTAfazHOTtraxTwQinTbYnaqTi17lcuKg7iut3A13lJK2jG8VsnaT9Uaavvp2ea0OTCR6hO6CFbGEUSeYDfTxiilS00IehbZWUjMKymRAOqWOycl6iaZz2L7HxbCA_g-b2ax4LNNzCEBseqD0GLhZvsXvYzXI3PT2QKg%26as%3DS403512283%253A1684516378893311%26client_id%3D16421419963-k2angvap8hdeficq8j6cbhj377924tqh.apps.googleusercontent.com%23&flowName=GeneralOAuthFlow&o2v=1&rart=ANgoxcd1yWZk2bWtj3pZJXEJqChNrZH7_uGq8Ny6Jzo9Rfws_4_2Qsy8x-OLYa4_drU_vBANPY-l6HCSYldkixBLtbnvRJ08Vg&redirect_uri=http%3A%2F%2F127.0.0.1%3A5000%2Fuser%2Fauth%2Fcallback&response_type=code&scope=https%3A%2F%2Fwww.googleapis.com%2Fauth%2Fuserinfo.profile+https%3A%2F%2Fwww.googleapis.com%2Fauth%2Fuserinfo.email+openid&service=lso&state=J8GSiW5EyFP87TvWBOxS4mkw5iBcYc line 4 > injectedScript line 2 > eval line 5498 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://accounts.google.com/v3/signin/identifier?opparams=%253Frart%253DANgoxcfdLY4nIpK-aVXamGFon9CXobf4c_61meclbji0iTXv3zLIuGNpBXgdTslK_K7ejF0rww_ye2Fjv9hOp6KNChMAZ4a7dg%2526flowName%253DGeneralOAuthFlow%2526service%253Dlso%2526dsh%253DS-251450113%25253A1684516352651659&dsh=S-251450113%3A1684516352651659&access_type=offline&app_domain=http%3A%2F%2F127.0.0.1%3A5000&client_id=16421419963-k2angvap8hdeficq8j6cbhj377924tqh.apps.googleusercontent.com&continue=https%3A%2F%2Faccounts.google.com%2Fsignin%2Foauth%2Fconsent%3Fauthuser%3Dunknown%26part%3DAJi8hANy5ht2GOndgtll-ICzZUsMHRu3z-mufQCJpsvKtEnI3SVgW3CLJCE9wrcCO9QMnxM0NHcfWZYC7APOTla_enN6ThgV4-rEfyUMIPPfGqVcSzYnPo7FpalMwNyadfvnaKHRD4yAqnIduNurQJ7Khy1CFPsb9FMQGIRZo6TLUnrY93nP-V6pJepB1gSgySEs0cziorrLLh1D_hsBNfFF_i6k5xt6mqEmSXFvYFUEi9Ry-Ly-_wO1NwltHUC5CvOxFna7YxulfOc4-70NIqko1J4sYEui3Ltihx_8spnKj_NUlbLSXAhocXDijmwTAfazHOTtraxTwQinTbYnaqTi17lcuKg7iut3A13lJK2jG8VsnaT9Uaavvp2ea0OTCR6hO6CFbGEUSeYDfTxiilS00IehbZWUjMKymRAOqWOycl6iaZz2L7HxbCA_g-b2ax4LNNzCEBseqD0GLhZvsXvYzXI3PT2QKg%26as%3DS403512283%253A1684516378893311%26client_id%3D16421419963-k2angvap8hdeficq8j6cbhj377924tqh.apps.googleusercontent.com%23&flowName=GeneralOAuthFlow&o2v=1&rart=ANgoxcd1yWZk2bWtj3pZJXEJqChNrZH7_uGq8Ny6Jzo9Rfws_4_2Qsy8x-OLYa4_drU_vBANPY-l6HCSYldkixBLtbnvRJ08Vg&redirect_uri=http%3A%2F%2F127.0.0.1%3A5000%2Fuser%2Fauth%2Fcallback&response_type=code&scope=https%3A%2F%2Fwww.googleapis.com%2Fauth%2Fuserinfo.profile+https%3A%2F%2Fwww.googleapis.com%2Fauth%2Fuserinfo.email+openid&service=lso&state=J8GSiW5EyFP87TvWBOxS4mkw5iBcYc line 4 > injectedScript line 2 > eval line 5498 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://accounts.google.com/v3/signin/identifier?opparams=%253Frart%253DANgoxcfdLY4nIpK-aVXamGFon9CXobf4c_61meclbji0iTXv3zLIuGNpBXgdTslK_K7ejF0rww_ye2Fjv9hOp6KNChMAZ4a7dg%2526flowName%253DGeneralOAuthFlow%2526service%253Dlso%2526dsh%253DS-251450113%25253A1684516352651659&dsh=S-251450113%3A1684516352651659&access_type=offline&app_domain=http%3A%2F%2F127.0.0.1%3A5000&client_id=16421419963-k2angvap8hdeficq8j6cbhj377924tqh.apps.googleusercontent.com&continue=https%3A%2F%2Faccounts.google.com%2Fsignin%2Foauth%2Fconsent%3Fauthuser%3Dunknown%26part%3DAJi8hANy5ht2GOndgtll-ICzZUsMHRu3z-mufQCJpsvKtEnI3SVgW3CLJCE9wrcCO9QMnxM0NHcfWZYC7APOTla_enN6ThgV4-rEfyUMIPPfGqVcSzYnPo7FpalMwNyadfvnaKHRD4yAqnIduNurQJ7Khy1CFPsb9FMQGIRZo6TLUnrY93nP-V6pJepB1gSgySEs0cziorrLLh1D_hsBNfFF_i6k5xt6mqEmSXFvYFUEi9Ry-Ly-_wO1NwltHUC5CvOxFna7YxulfOc4-70NIqko1J4sYEui3Ltihx_8spnKj_NUlbLSXAhocXDijmwTAfazHOTtraxTwQinTbYnaqTi17lcuKg7iut3A13lJK2jG8VsnaT9Uaavvp2ea0OTCR6hO6CFbGEUSeYDfTxiilS00IehbZWUjMKymRAOqWOycl6iaZz2L7HxbCA_g-b2ax4LNNzCEBseqD0GLhZvsXvYzXI3PT2QKg%26as%3DS403512283%253A1684516378893311%26client_id%3D16421419963-k2angvap8hdeficq8j6cbhj377924tqh.apps.googleusercontent.com%23&flowName=GeneralOAuthFlow&o2v=1&rart=ANgoxcd1yWZk2bWtj3pZJXEJqChNrZH7_uGq8Ny6Jzo9Rfws_4_2Qsy8x-OLYa4_drU_vBANPY-l6HCSYldkixBLtbnvRJ08Vg&redirect_uri=http%3A%2F%2F127.0.0.1%3A5000%2Fuser%2Fauth%2Fcallback&response_type=code&scope=https%3A%2F%2Fwww.googleapis.com%2Fauth%2Fuserinfo.profile+https%3A%2F%2Fwww.googleapis.com%2Fauth%2Fuserinfo.email+openid&service=lso&state=J8GSiW5EyFP87TvWBOxS4mkw5iBcYc line 4 > injectedScript line 2 > eval line 5498 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://accounts.google.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://accounts.google.com."
+JavaScript warning: https://accounts.google.com/v3/signin/identifier?opparams=%253Frart%253DANgoxcfdLY4nIpK-aVXamGFon9CXobf4c_61meclbji0iTXv3zLIuGNpBXgdTslK_K7ejF0rww_ye2Fjv9hOp6KNChMAZ4a7dg%2526flowName%253DGeneralOAuthFlow%2526service%253Dlso%2526dsh%253DS-251450113%25253A1684516352651659&dsh=S-251450113%3A1684516352651659&access_type=offline&app_domain=http%3A%2F%2F127.0.0.1%3A5000&client_id=16421419963-k2angvap8hdeficq8j6cbhj377924tqh.apps.googleusercontent.com&continue=https%3A%2F%2Faccounts.google.com%2Fsignin%2Foauth%2Fconsent%3Fauthuser%3Dunknown%26part%3DAJi8hAO1Hi4fIy8drBM4ro38Vqv7uSBBhIiXsSebEv6FClyqu_Q4Tx8Efw5Rn5h_4dArGYcmgIsl29yrIfOyRFgAQtIdw4hVpMDaBS8z68ymTlAzOJWCXqfFjPNdqMCWK3hVThPSM34SdsE7uViAJHezQEafbFOUVa3trZd77Ru-6fBMFSsYGJX3dEnsn_6_kk2JGGvq4cug56RpzxM8LlnhQPYO6XrlZPOZf-wAA8dOL0bMez9GlCfvA2QCcSf0VvoyTZS-2KqHJM4phy6s5SERzrzCyGqFMtcY2TP7feNlPcSRYoQpgW99fm3cUTb1uN8KZVohzs8C5jDT3QQxZHiZtjV9gE3GZd8n3lZAaBSPKMt1bsyvKdzQvSRGDtedHiYUXMBL0qOXD5ftOabafgEy1Bv8nw0zKRS6a_NdmEiU49rqk7bCP6IrYZL6n8oU0Jok6e39YAWkRMrcMEdFBLJN7jSbA7jZcA%26as%3DS739196266%253A1684516407973459%26client_id%3D16421419963-k2angvap8hdeficq8j6cbhj377924tqh.apps.googleusercontent.com%23&flowName=GeneralOAuthFlow&o2v=1&rart=ANgoxcdCv2QaA3BNG0JBtSwdWsV-0WdP87Y5LcfkMmJRuonRqgu0g1GmYyg5726HCKKOJS3xedKlDb4939R7iI_dj9wRUmgxhQ&redirect_uri=http%3A%2F%2F127.0.0.1%3A5000%2Fuser%2Fauth%2Fcallback&response_type=code&scope=https%3A%2F%2Fwww.googleapis.com%2Fauth%2Fuserinfo.profile+https%3A%2F%2Fwww.googleapis.com%2Fauth%2Fuserinfo.email+openid&service=lso&state=J8GSiW5EyFP87TvWBOxS4mkw5iBcYc line 4 > injectedScript line 2 > eval line 1646 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://accounts.google.com."
+[Child 11270, Main Thread] WARNING: JSWindowActorChild::SendRawMessage (Conduits, ConduitClosed) not sent: !CanSend() || !mManager || !mManager->CanSend(): file /build/firefox-sx15yn/firefox-113.0.1+build1/dom/ipc/jsactor/JSWindowActorChild.cpp:57
+[Child 11270, Main Thread] WARNING: JSWindowActorChild::SendRawMessage (Conduits, ConduitClosed) not sent: !CanSend() || !mManager || !mManager->CanSend(): file /build/firefox-sx15yn/firefox-113.0.1+build1/dom/ipc/jsactor/JSWindowActorChild.cpp:57
+[Child 11270, Main Thread] WARNING: JSWindowActorChild::SendRawMessage (Conduits, ConduitClosed) not sent: !CanSend() || !mManager || !mManager->CanSend(): file /build/firefox-sx15yn/firefox-113.0.1+build1/dom/ipc/jsactor/JSWindowActorChild.cpp:57
+[Child 11270, Main Thread] WARNING: JSWindowActorChild::SendRawMessage (Conduits, ConduitClosed) not sent: !CanSend() || !mManager || !mManager->CanSend(): file /build/firefox-sx15yn/firefox-113.0.1+build1/dom/ipc/jsactor/JSWindowActorChild.cpp:57
+[Child 11270, Main Thread] WARNING: JSWindowActorChild::SendRawMessage (Conduits, ConduitClosed) not sent: !CanSend() || !mManager || !mManager->CanSend(): file /build/firefox-sx15yn/firefox-113.0.1+build1/dom/ipc/jsactor/JSWindowActorChild.cpp:57
+[Child 11270, Main Thread] WARNING: JSWindowActorChild::SendRawMessage (Conduits, ConduitClosed) not sent: !CanSend() || !mManager || !mManager->CanSend(): file /build/firefox-sx15yn/firefox-113.0.1+build1/dom/ipc/jsactor/JSWindowActorChild.cpp:57
+[Child 11270, Main Thread] WARNING: JSWindowActorChild::SendRawMessage (Conduits, ConduitClosed) not sent: !CanSend() || !mManager || !mManager->CanSend(): file /build/firefox-sx15yn/firefox-113.0.1+build1/dom/ipc/jsactor/JSWindowActorChild.cpp:57
+[Child 11270, Main Thread] WARNING: JSWindowActorChild::SendRawMessage (Conduits, ConduitClosed) not sent: !CanSend() || !mManager || !mManager->CanSend(): file /build/firefox-sx15yn/firefox-113.0.1+build1/dom/ipc/jsactor/JSWindowActorChild.cpp:57
+1684516429698	Marionette	INFO	Stopped listening on port 39517
+Sandbox: Unexpected EOF, op 0 flags 00 path /proc/cpuinfo
+1684516433216	geckodriver	INFO	Listening on 127.0.0.1:43545
+1684516433222	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/usr ... te" "--remote-debugging-port" "51899" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofilee2zggn"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1684516435540	Marionette	INFO	Marionette enabled
+1684516435545	Marionette	INFO	Listening on port 43383
+Read port: 43383
+WebDriver BiDi listening on ws://127.0.0.1:51899
+1684516436230	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: ({})
+[ERROR glean_core] Error setting metrics feature config: Json(Error("EOF while parsing a value", line: 1, column: 0))
+DevTools listening on ws://127.0.0.1:51899/devtools/browser/b82256ff-4a36-465e-8a81-d37f4cf98f6d
+console.error: (new TypeError("this._searchProviderInfo is null", "resource:///modules/SearchSERPTelemetry.sys.mjs", 502))
+console.error: (new TypeError("linkMap is undefined", "resource://gre/modules/NewTabUtils.sys.mjs", 2019))
+JavaScript error: http://localhost:3000/_next/static/chunks/main-app.js line 982 > eval, line 900: Error: Algo está errado
+JavaScript error: http://localhost:3000/_next/static/chunks/main-app.js line 982 > eval, line 900: Error: Algo está errado
+JavaScript error: http://localhost:3000/_next/static/chunks/main-app.js line 982 > eval, line 900: Error: Algo está errado
+JavaScript error: http://localhost:3000/_next/static/chunks/main-app.js line 982 > eval, line 900: Error: Algo está errado
+JavaScript error: http://localhost:3000/_next/static/chunks/main-app.js line 982 > eval, line 900: Error: Algo está errado
+JavaScript error: http://localhost:3000/_next/static/chunks/main-app.js line 982 > eval, line 900: Error: Algo está errado
+JavaScript error: http://localhost:3000/_next/static/chunks/main-app.js line 982 > eval, line 900: Error: Algo está errado
+JavaScript error: http://localhost:3000/_next/static/chunks/main-app.js line 982 > eval, line 900: Error: Algo está errado
+JavaScript error: http://localhost:3000/_next/static/chunks/main-app.js line 982 > eval, line 900: Error: Algo está errado
+JavaScript error: http://localhost:3000/_next/static/chunks/main-app.js line 982 > eval, line 900: Error: Algo está errado
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://accounts.google.com."
+console.error: "update.locale" " file doesn't exist in either the application or GRE directories"
+JavaScript error: http://localhost:3000/_next/static/chunks/main-app.js line 982 > eval, line 900: Error: Algo está errado
+JavaScript error: http://localhost:3000/_next/static/chunks/main-app.js line 982 > eval, line 900: Error: Algo está errado
+JavaScript error: http://localhost:3000/_next/static/chunks/main-app.js line 982 > eval, line 900: Error: Algo está errado
+JavaScript error: http://localhost:3000/_next/static/chunks/main-app.js line 982 > eval, line 900: Error: Algo está errado
+JavaScript error: http://localhost:3000/_next/static/chunks/main-app.js line 982 > eval, line 900: Error: Algo está errado
+JavaScript error: http://localhost:3000/_next/static/chunks/main-app.js line 982 > eval, line 900: Error: Algo está errado
+JavaScript error: http://localhost:3000/_next/static/chunks/main-app.js line 982 > eval, line 900: Error: Algo está errado
+JavaScript error: http://localhost:3000/_next/static/chunks/main-app.js line 982 > eval, line 900: Error: Algo está errado
+JavaScript error: http://localhost:3000/_next/static/chunks/main-app.js line 982 > eval, line 900: Error: Algo está errado
+JavaScript error: http://localhost:3000/_next/static/chunks/main-app.js line 982 > eval, line 900: Error: Algo está errado
+1684516511155	geckodriver	INFO	Listening on 127.0.0.1:43073
+1684516511653	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/usr ... te" "--remote-debugging-port" "46109" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofilerG8Tl4"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1684516513938	Marionette	INFO	Marionette enabled
+1684516513942	Marionette	INFO	Listening on port 36985
+Read port: 36985
+WebDriver BiDi listening on ws://127.0.0.1:46109
+1684516514069	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: ({})
+[ERROR glean_core] Error setting metrics feature config: Json(Error("EOF while parsing a value", line: 1, column: 0))
+DevTools listening on ws://127.0.0.1:46109/devtools/browser/9cd405a6-d31a-4f45-a553-a373dda33648
+console.error: (new TypeError("this._searchProviderInfo is null", "resource:///modules/SearchSERPTelemetry.sys.mjs", 502))
+console.error: (new TypeError("linkMap is undefined", "resource://gre/modules/NewTabUtils.sys.mjs", 2019))
+JavaScript error: http://localhost:3000/_next/static/chunks/main-app.js line 982 > eval, line 900: Error: Algo está errado
+JavaScript error: http://localhost:3000/_next/static/chunks/main-app.js line 982 > eval, line 900: Error: Algo está errado
+JavaScript error: http://localhost:3000/_next/static/chunks/main-app.js line 982 > eval, line 900: Error: Algo está errado
+JavaScript error: http://localhost:3000/_next/static/chunks/main-app.js line 982 > eval, line 900: Error: Algo está errado
+JavaScript error: http://localhost:3000/_next/static/chunks/main-app.js line 982 > eval, line 900: Error: Algo está errado
+JavaScript error: http://localhost:3000/_next/static/chunks/main-app.js line 982 > eval, line 900: Error: Algo está errado
+JavaScript error: http://localhost:3000/_next/static/chunks/main-app.js line 982 > eval, line 900: Error: Algo está errado
+JavaScript error: http://localhost:3000/_next/static/chunks/main-app.js line 982 > eval, line 900: Error: Algo está errado
+JavaScript error: http://localhost:3000/_next/static/chunks/main-app.js line 982 > eval, line 900: Error: Algo está errado
+JavaScript error: http://localhost:3000/_next/static/chunks/main-app.js line 982 > eval, line 900: Error: Algo está errado
+JavaScript error: http://localhost:3000/_next/static/chunks/main-app.js line 982 > eval, line 900: Error: Algo está errado
+JavaScript error: http://localhost:3000/_next/static/chunks/main-app.js line 982 > eval, line 900: Error: Algo está errado
+JavaScript error: http://localhost:3000/_next/static/chunks/main-app.js line 982 > eval, line 900: Error: Algo está errado
+JavaScript error: http://localhost:3000/_next/static/chunks/main-app.js line 982 > eval, line 900: Error: Algo está errado
+JavaScript error: http://localhost:3000/_next/static/chunks/main-app.js line 982 > eval, line 900: Error: Algo está errado
+JavaScript error: http://localhost:3000/_next/static/chunks/main-app.js line 982 > eval, line 900: Error: Algo está errado
+JavaScript error: http://localhost:3000/_next/static/chunks/main-app.js line 982 > eval, line 900: Error: Algo está errado
+JavaScript error: http://localhost:3000/_next/static/chunks/main-app.js line 982 > eval, line 900: Error: Algo está errado
+JavaScript error: http://localhost:3000/_next/static/chunks/main-app.js line 982 > eval, line 900: Error: Algo está errado
+JavaScript error: http://localhost:3000/_next/static/chunks/main-app.js line 982 > eval, line 900: Error: Algo está errado
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://accounts.google.com."
+console.error: "update.locale" " file doesn't exist in either the application or GRE directories"
+JavaScript warning: https://accounts.google.com/v3/signin/identifier?dsh=S872984539%3A1684516533253967&access_type=offline&client_id=16421419963-k2angvap8hdeficq8j6cbhj377924tqh.apps.googleusercontent.com&o2v=1&redirect_uri=http%3A%2F%2F127.0.0.1%3A5000%2Fuser%2Fauth%2Fcallback&response_type=code&scope=https%3A%2F%2Fwww.googleapis.com%2Fauth%2Fuserinfo.profile+https%3A%2F%2Fwww.googleapis.com%2Fauth%2Fuserinfo.email+openid&service=lso&state=Mc1AdqEhOgSSVos73FMVy9ikUTJcU3&flowName=GeneralOAuthFlow&continue=https%3A%2F%2Faccounts.google.com%2Fsignin%2Foauth%2Fconsent%3Fauthuser%3Dunknown%26part%3DAJi8hAOJjX1t5v6D9ua-Fg1knIXNwtTLR5hZPQaFkULrjxCGmEAXkXnN_THMfo29nLUOwgOTXVeuddDue06LpnkfLnfsH5gV9LZ1Lq0R4FMKps75kQ7hACp7hve0liMQvGmC0SljKhsPQHmpWQqZ-9ftcCi29VnNYYTV12_IXZvizj4awcLKiZ9ua-lPLZoWl0e2HZDbNq6eZPZSo3uCTi2VSf4uv9GoRIdXbH36YlOaxd8c3iC8eu1_sZjxGlULv7mNAks7_nvH59ztPEALpckJtHHU80xw4hjMgcQhW8LXlqX9_21LcqHdU-nA09Nf4BqdbS6oyEFIFXJTTkGbn21u1wI1MI-3rsCSMnAnoVk1C4gUQqXz5Er9KWvjpWccuY1hWeK6QYOaS26ks10UXP2XLX8DEUKKgZOjxh0xmxjL5myCmhqP1fGVUG4v2PJcXaWZB48UposS0NN9AvWyy5Zh0gGgF9NTWQ%26as%3DS872984539%253A1684516533253967%26client_id%3D16421419963-k2angvap8hdeficq8j6cbhj377924tqh.apps.googleusercontent.com%23&app_domain=http%3A%2F%2F127.0.0.1%3A5000&rart=ANgoxccDz2620jGBGPKZ7dPc3bVNaaH5xfaROqP5r4FF76ixg3r0FRm6vxcq8XC0uEJ-MaG1ns2DCGVR0pwmzjM4G51S3pnwzg line 205 > injectedScript line 2 > eval line 3459 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://accounts.google.com/v3/signin/identifier?dsh=S872984539%3A1684516533253967&access_type=offline&client_id=16421419963-k2angvap8hdeficq8j6cbhj377924tqh.apps.googleusercontent.com&o2v=1&redirect_uri=http%3A%2F%2F127.0.0.1%3A5000%2Fuser%2Fauth%2Fcallback&response_type=code&scope=https%3A%2F%2Fwww.googleapis.com%2Fauth%2Fuserinfo.profile+https%3A%2F%2Fwww.googleapis.com%2Fauth%2Fuserinfo.email+openid&service=lso&state=Mc1AdqEhOgSSVos73FMVy9ikUTJcU3&flowName=GeneralOAuthFlow&continue=https%3A%2F%2Faccounts.google.com%2Fsignin%2Foauth%2Fconsent%3Fauthuser%3Dunknown%26part%3DAJi8hAOJjX1t5v6D9ua-Fg1knIXNwtTLR5hZPQaFkULrjxCGmEAXkXnN_THMfo29nLUOwgOTXVeuddDue06LpnkfLnfsH5gV9LZ1Lq0R4FMKps75kQ7hACp7hve0liMQvGmC0SljKhsPQHmpWQqZ-9ftcCi29VnNYYTV12_IXZvizj4awcLKiZ9ua-lPLZoWl0e2HZDbNq6eZPZSo3uCTi2VSf4uv9GoRIdXbH36YlOaxd8c3iC8eu1_sZjxGlULv7mNAks7_nvH59ztPEALpckJtHHU80xw4hjMgcQhW8LXlqX9_21LcqHdU-nA09Nf4BqdbS6oyEFIFXJTTkGbn21u1wI1MI-3rsCSMnAnoVk1C4gUQqXz5Er9KWvjpWccuY1hWeK6QYOaS26ks10UXP2XLX8DEUKKgZOjxh0xmxjL5myCmhqP1fGVUG4v2PJcXaWZB48UposS0NN9AvWyy5Zh0gGgF9NTWQ%26as%3DS872984539%253A1684516533253967%26client_id%3D16421419963-k2angvap8hdeficq8j6cbhj377924tqh.apps.googleusercontent.com%23&app_domain=http%3A%2F%2F127.0.0.1%3A5000&rart=ANgoxccDz2620jGBGPKZ7dPc3bVNaaH5xfaROqP5r4FF76ixg3r0FRm6vxcq8XC0uEJ-MaG1ns2DCGVR0pwmzjM4G51S3pnwzg line 205 > injectedScript line 2 > eval line 3459 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://accounts.google.com."
+JavaScript error: http://localhost:3000/_next/static/chunks/main-app.js line 982 > eval, line 900: Error: Algo está errado
+JavaScript error: http://localhost:3000/_next/static/chunks/main-app.js line 982 > eval, line 900: Error: Algo está errado
+JavaScript error: http://localhost:3000/_next/static/chunks/main-app.js line 982 > eval, line 900: Error: Algo está errado
+JavaScript error: http://localhost:3000/_next/static/chunks/main-app.js line 982 > eval, line 900: Error: Algo está errado
+JavaScript error: http://localhost:3000/_next/static/chunks/main-app.js line 982 > eval, line 900: Error: Algo está errado
+JavaScript error: http://localhost:3000/_next/static/chunks/main-app.js line 982 > eval, line 900: Error: Algo está errado
+JavaScript error: http://localhost:3000/_next/static/chunks/main-app.js line 982 > eval, line 900: Error: Algo está errado
+JavaScript error: http://localhost:3000/_next/static/chunks/main-app.js line 982 > eval, line 900: Error: Algo está errado
+JavaScript error: http://localhost:3000/_next/static/chunks/main-app.js line 982 > eval, line 900: Error: Algo está errado
+JavaScript error: http://localhost:3000/_next/static/chunks/main-app.js line 982 > eval, line 900: Error: Algo está errado
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://accounts.google.com."
+JavaScript warning: https://accounts.google.com/v3/signin/identifier?dsh=S1795698319%3A1684516711697654&access_type=offline&client_id=16421419963-k2angvap8hdeficq8j6cbhj377924tqh.apps.googleusercontent.com&o2v=1&redirect_uri=http%3A%2F%2F127.0.0.1%3A5000%2Fuser%2Fauth%2Fcallback&response_type=code&scope=https%3A%2F%2Fwww.googleapis.com%2Fauth%2Fuserinfo.profile+https%3A%2F%2Fwww.googleapis.com%2Fauth%2Fuserinfo.email+openid&service=lso&state=93ptC7a0G7bXWK2y4BLPeLIHe1Myxw&flowName=GeneralOAuthFlow&continue=https%3A%2F%2Faccounts.google.com%2Fsignin%2Foauth%2Fconsent%3Fauthuser%3Dunknown%26part%3DAJi8hAMfmJ0eB5Wwts5qwqwwTJJ0ni0jasdQIukDmdtcEkixBKVnMX-F6LnaJduX7MAGTRHHBK-8N1DBVwLnDqvuHbQafuzQGnUG_V5t-OQclJvnoph0PVxMe3DH2PyUzwmP1a_7kBQ1XPGkLrKSvn1iXa6iHrVaO8Q1I9K6MG62ZfC26KSxifgFjPD3ypgww1w6LvTE6CNz89Vl7u0QzyyyrhS_1FZ5VmZ58GRjeyffGERiQBLm9BJqSi50PVyYAaCLJ4cE2HCTgq3_5lLQfHn8ixhpIODoIqkK2Nu1YLra3QxXRbVFBMbDVxT2RZFNHLWfJNx44qoGbdNiVicoDkOVYKTPk3fe6CP4tKInmyMaEfS4sUn-qLMjm8r7jDDW3ncWxJYGjyLT4Dqm090dSL85Pqr_XrqhioEuynNDp3eSgiaq3umisiIvDxMaDWjqNtQJShitBNWcEle39lLUwV4Orje_B6jCXQ%26as%3DS1795698319%253A1684516711697654%26client_id%3D16421419963-k2angvap8hdeficq8j6cbhj377924tqh.apps.googleusercontent.com%23&app_domain=http%3A%2F%2F127.0.0.1%3A5000&rart=ANgoxcdvliaq4jt5e9WhXL3u_pbBL1cpsV3D0SJpj4nO0_AHiG6uulAgkFZYXOgvuc54k3S4BAZyxvcM-CHv7_RxJz2NIizMew line 205 > injectedScript line 2 > eval line 1010 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://accounts.google.com/v3/signin/identifier?dsh=S1795698319%3A1684516711697654&access_type=offline&client_id=16421419963-k2angvap8hdeficq8j6cbhj377924tqh.apps.googleusercontent.com&o2v=1&redirect_uri=http%3A%2F%2F127.0.0.1%3A5000%2Fuser%2Fauth%2Fcallback&response_type=code&scope=https%3A%2F%2Fwww.googleapis.com%2Fauth%2Fuserinfo.profile+https%3A%2F%2Fwww.googleapis.com%2Fauth%2Fuserinfo.email+openid&service=lso&state=93ptC7a0G7bXWK2y4BLPeLIHe1Myxw&flowName=GeneralOAuthFlow&continue=https%3A%2F%2Faccounts.google.com%2Fsignin%2Foauth%2Fconsent%3Fauthuser%3Dunknown%26part%3DAJi8hAMfmJ0eB5Wwts5qwqwwTJJ0ni0jasdQIukDmdtcEkixBKVnMX-F6LnaJduX7MAGTRHHBK-8N1DBVwLnDqvuHbQafuzQGnUG_V5t-OQclJvnoph0PVxMe3DH2PyUzwmP1a_7kBQ1XPGkLrKSvn1iXa6iHrVaO8Q1I9K6MG62ZfC26KSxifgFjPD3ypgww1w6LvTE6CNz89Vl7u0QzyyyrhS_1FZ5VmZ58GRjeyffGERiQBLm9BJqSi50PVyYAaCLJ4cE2HCTgq3_5lLQfHn8ixhpIODoIqkK2Nu1YLra3QxXRbVFBMbDVxT2RZFNHLWfJNx44qoGbdNiVicoDkOVYKTPk3fe6CP4tKInmyMaEfS4sUn-qLMjm8r7jDDW3ncWxJYGjyLT4Dqm090dSL85Pqr_XrqhioEuynNDp3eSgiaq3umisiIvDxMaDWjqNtQJShitBNWcEle39lLUwV4Orje_B6jCXQ%26as%3DS1795698319%253A1684516711697654%26client_id%3D16421419963-k2angvap8hdeficq8j6cbhj377924tqh.apps.googleusercontent.com%23&app_domain=http%3A%2F%2F127.0.0.1%3A5000&rart=ANgoxcdvliaq4jt5e9WhXL3u_pbBL1cpsV3D0SJpj4nO0_AHiG6uulAgkFZYXOgvuc54k3S4BAZyxvcM-CHv7_RxJz2NIizMew line 205 > injectedScript line 2 > eval line 1010 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://accounts.google.com/v3/signin/identifier?dsh=S1795698319%3A1684516711697654&access_type=offline&client_id=16421419963-k2angvap8hdeficq8j6cbhj377924tqh.apps.googleusercontent.com&o2v=1&redirect_uri=http%3A%2F%2F127.0.0.1%3A5000%2Fuser%2Fauth%2Fcallback&response_type=code&scope=https%3A%2F%2Fwww.googleapis.com%2Fauth%2Fuserinfo.profile+https%3A%2F%2Fwww.googleapis.com%2Fauth%2Fuserinfo.email+openid&service=lso&state=93ptC7a0G7bXWK2y4BLPeLIHe1Myxw&flowName=GeneralOAuthFlow&continue=https%3A%2F%2Faccounts.google.com%2Fsignin%2Foauth%2Fconsent%3Fauthuser%3Dunknown%26part%3DAJi8hAMfmJ0eB5Wwts5qwqwwTJJ0ni0jasdQIukDmdtcEkixBKVnMX-F6LnaJduX7MAGTRHHBK-8N1DBVwLnDqvuHbQafuzQGnUG_V5t-OQclJvnoph0PVxMe3DH2PyUzwmP1a_7kBQ1XPGkLrKSvn1iXa6iHrVaO8Q1I9K6MG62ZfC26KSxifgFjPD3ypgww1w6LvTE6CNz89Vl7u0QzyyyrhS_1FZ5VmZ58GRjeyffGERiQBLm9BJqSi50PVyYAaCLJ4cE2HCTgq3_5lLQfHn8ixhpIODoIqkK2Nu1YLra3QxXRbVFBMbDVxT2RZFNHLWfJNx44qoGbdNiVicoDkOVYKTPk3fe6CP4tKInmyMaEfS4sUn-qLMjm8r7jDDW3ncWxJYGjyLT4Dqm090dSL85Pqr_XrqhioEuynNDp3eSgiaq3umisiIvDxMaDWjqNtQJShitBNWcEle39lLUwV4Orje_B6jCXQ%26as%3DS1795698319%253A1684516711697654%26client_id%3D16421419963-k2angvap8hdeficq8j6cbhj377924tqh.apps.googleusercontent.com%23&app_domain=http%3A%2F%2F127.0.0.1%3A5000&rart=ANgoxcdvliaq4jt5e9WhXL3u_pbBL1cpsV3D0SJpj4nO0_AHiG6uulAgkFZYXOgvuc54k3S4BAZyxvcM-CHv7_RxJz2NIizMew line 205 > injectedScript line 2 > eval line 1010 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://accounts.google.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://accounts.google.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://accounts.google.com."
+JavaScript warning: https://accounts.google.com/SignUp?access_type=offline&app_domain=http%3A%2F%2F127.0.0.1%3A5000&cc=BR&client_id=16421419963-k2angvap8hdeficq8j6cbhj377924tqh.apps.googleusercontent.com&continue=https%3A%2F%2Faccounts.google.com%2Fsignin%2Foauth%2Fconsent%3Fauthuser%3Dunknown%26part%3DAJi8hAMfmJ0eB5Wwts5qwqwwTJJ0ni0jasdQIukDmdtcEkixBKVnMX-F6LnaJduX7MAGTRHHBK-8N1DBVwLnDqvuHbQafuzQGnUG_V5t-OQclJvnoph0PVxMe3DH2PyUzwmP1a_7kBQ1XPGkLrKSvn1iXa6iHrVaO8Q1I9K6MG62ZfC26KSxifgFjPD3ypgww1w6LvTE6CNz89Vl7u0QzyyyrhS_1FZ5VmZ58GRjeyffGERiQBLm9BJqSi50PVyYAaCLJ4cE2HCTgq3_5lLQfHn8ixhpIODoIqkK2Nu1YLra3QxXRbVFBMbDVxT2RZFNHLWfJNx44qoGbdNiVicoDkOVYKTPk3fe6CP4tKInmyMaEfS4sUn-qLMjm8r7jDDW3ncWxJYGjyLT4Dqm090dSL85Pqr_XrqhioEuynNDp3eSgiaq3umisiIvDxMaDWjqNtQJShitBNWcEle39lLUwV4Orje_B6jCXQ%26as%3DS1795698319%253A1684516711697654%26client_id%3D16421419963-k2angvap8hdeficq8j6cbhj377924tqh.apps.googleusercontent.com%23&dsh=S1795698319%3A1684516711697654&flowName=GeneralOAuthFlow&o2v=1&rart=ANgoxcdvliaq4jt5e9WhXL3u_pbBL1cpsV3D0SJpj4nO0_AHiG6uulAgkFZYXOgvuc54k3S4BAZyxvcM-CHv7_RxJz2NIizMew&redirect_uri=http%3A%2F%2F127.0.0.1%3A5000%2Fuser%2Fauth%2Fcallback&response_type=code&scope=https%3A%2F%2Fwww.googleapis.com%2Fauth%2Fuserinfo.profile%20https%3A%2F%2Fwww.googleapis.com%2Fauth%2Fuserinfo.email%20openid&service=lso&signInUrl=https%3A%2F%2Faccounts.google.com%2Fsignin%2Foauth%3Faccess_type%3Doffline%26app_domain%3Dhttp%3A%2F%2F127.0.0.1%3A5000%26client_id%3D16421419963-k2angvap8hdeficq8j6cbhj377924tqh.apps.googleusercontent.com%26continue%3Dhttps%3A%2F%2Faccounts.google.com%2Fsignin%2Foauth%2Fconsent%3Fauthuser%253Dunknown%2526part%253DAJi8hAMfmJ0eB5Wwts5qwqwwTJJ0ni0jasdQIukDmdtcEkixBKVnMX-F6LnaJduX7MAGTRHHBK-8N1DBVwLnDqvuHbQafuzQGnUG_V5t-OQclJvnoph0PVxMe3DH2PyUzwmP1a_7kBQ1XPGkLrKSvn1iXa6iHrVaO8Q1I9K6MG62ZfC26KSxifgFjPD3ypgww1w6LvTE6CNz89Vl7u0QzyyyrhS_1FZ5VmZ58GRjeyffGERiQBLm9BJqSi50PVyYAaCLJ4cE2HCTgq3_5lLQfHn8ixhpIODoIqkK2Nu1YLra3QxXRbVFBMbDVxT2RZFNHLWfJNx44qoGbdNiVicoDkOVYKTPk3fe6CP4tKInmyMaEfS4sUn-qLMjm8r7jDDW3ncWxJYGjyLT4Dqm090dSL85Pqr_XrqhioEuynNDp3eSgiaq3umisiIvDxMaDWjqNtQJShitBNWcEle39lLUwV4Orje_B6jCXQ%2526as%253DS1795698319%25253A1684516711697654%2526client_id%253D16421419963-k2angvap8hdeficq8j6cbhj377924tqh.apps.googleusercontent.com%2523%26dsh%3DS1795698319%3A1684516711697654%26flowName%3DGeneralOAuthFlow%26o2v%3D1%26rart%3DANgoxcdvliaq4jt5e9WhXL3u_pbBL1cpsV3D0SJpj4nO0_AHiG6uulAgkFZYXOgvuc54k3S4BAZyxvcM-CHv7_RxJz2NIizMew%26redirect_uri%3Dhttp%3A%2F%2F127.0.0.1%3A5000%2Fuser%2Fauth%2Fcallback%26response_type%3Dcode%26scope%3Dhttps%3A%2F%2Fwww.googleapis.com%2Fauth%2Fuserinfo.profile%2Bhttps%3A%2F%2Fwww.googleapis.com%2Fauth%2Fuserinfo.email%2Bopenid%26service%3Dlso%26state%3D93ptC7a0G7bXWK2y4BLPeLIHe1Myxw&state=93ptC7a0G7bXWK2y4BLPeLIHe1Myxw line 2 > eval line 6183 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://accounts.google.com/v3/signin/identifier?dsh=S1795698319%3A1684516711697654&access_type=offline&client_id=16421419963-k2angvap8hdeficq8j6cbhj377924tqh.apps.googleusercontent.com&o2v=1&redirect_uri=http%3A%2F%2F127.0.0.1%3A5000%2Fuser%2Fauth%2Fcallback&response_type=code&scope=https%3A%2F%2Fwww.googleapis.com%2Fauth%2Fuserinfo.profile+https%3A%2F%2Fwww.googleapis.com%2Fauth%2Fuserinfo.email+openid&service=lso&state=93ptC7a0G7bXWK2y4BLPeLIHe1Myxw&flowName=GeneralOAuthFlow&continue=https%3A%2F%2Faccounts.google.com%2Fsignin%2Foauth%2Fconsent%3Fauthuser%3Dunknown%26part%3DAJi8hAMfmJ0eB5Wwts5qwqwwTJJ0ni0jasdQIukDmdtcEkixBKVnMX-F6LnaJduX7MAGTRHHBK-8N1DBVwLnDqvuHbQafuzQGnUG_V5t-OQclJvnoph0PVxMe3DH2PyUzwmP1a_7kBQ1XPGkLrKSvn1iXa6iHrVaO8Q1I9K6MG62ZfC26KSxifgFjPD3ypgww1w6LvTE6CNz89Vl7u0QzyyyrhS_1FZ5VmZ58GRjeyffGERiQBLm9BJqSi50PVyYAaCLJ4cE2HCTgq3_5lLQfHn8ixhpIODoIqkK2Nu1YLra3QxXRbVFBMbDVxT2RZFNHLWfJNx44qoGbdNiVicoDkOVYKTPk3fe6CP4tKInmyMaEfS4sUn-qLMjm8r7jDDW3ncWxJYGjyLT4Dqm090dSL85Pqr_XrqhioEuynNDp3eSgiaq3umisiIvDxMaDWjqNtQJShitBNWcEle39lLUwV4Orje_B6jCXQ%26as%3DS1795698319%253A1684516711697654%26client_id%3D16421419963-k2angvap8hdeficq8j6cbhj377924tqh.apps.googleusercontent.com%23&app_domain=http%3A%2F%2F127.0.0.1%3A5000&rart=ANgoxcdvliaq4jt5e9WhXL3u_pbBL1cpsV3D0SJpj4nO0_AHiG6uulAgkFZYXOgvuc54k3S4BAZyxvcM-CHv7_RxJz2NIizMew line 4 > injectedScript line 2 > eval line 2445 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+[Child 13452, Main Thread] WARNING: JSWindowActorChild::SendRawMessage (Conduits, ConduitClosed) not sent: !CanSend() || !mManager || !mManager->CanSend(): file /build/firefox-sx15yn/firefox-113.0.1+build1/dom/ipc/jsactor/JSWindowActorChild.cpp:57
+[Child 13452, Main Thread] WARNING: JSWindowActorChild::SendRawMessage (Conduits, ConduitClosed) not sent: !CanSend() || !mManager || !mManager->CanSend(): file /build/firefox-sx15yn/firefox-113.0.1+build1/dom/ipc/jsactor/JSWindowActorChild.cpp:57
+[Child 13452, Main Thread] WARNING: JSWindowActorChild::SendRawMessage (Conduits, ConduitClosed) not sent: !CanSend() || !mManager || !mManager->CanSend(): file /build/firefox-sx15yn/firefox-113.0.1+build1/dom/ipc/jsactor/JSWindowActorChild.cpp:57
+[Child 13452, Main Thread] WARNING: JSWindowActorChild::SendRawMessage (Conduits, ConduitClosed) not sent: !CanSend() || !mManager || !mManager->CanSend(): file /build/firefox-sx15yn/firefox-113.0.1+build1/dom/ipc/jsactor/JSWindowActorChild.cpp:57
+[Child 13452, Main Thread] WARNING: JSWindowActorChild::SendRawMessage (Conduits, ConduitClosed) not sent: !CanSend() || !mManager || !mManager->CanSend(): file /build/firefox-sx15yn/firefox-113.0.1+build1/dom/ipc/jsactor/JSWindowActorChild.cpp:57
+[Child 13452, Main Thread] WARNING: JSWindowActorChild::SendRawMessage (Conduits, ConduitClosed) not sent: !CanSend() || !mManager || !mManager->CanSend(): file /build/firefox-sx15yn/firefox-113.0.1+build1/dom/ipc/jsactor/JSWindowActorChild.cpp:57
+[Child 13452, Main Thread] WARNING: JSWindowActorChild::SendRawMessage (Conduits, ConduitClosed) not sent: !CanSend() || !mManager || !mManager->CanSend(): file /build/firefox-sx15yn/firefox-113.0.1+build1/dom/ipc/jsactor/JSWindowActorChild.cpp:57
+[Child 13452, Main Thread] WARNING: JSWindowActorChild::SendRawMessage (Conduits, ConduitClosed) not sent: !CanSend() || !mManager || !mManager->CanSend(): file /build/firefox-sx15yn/firefox-113.0.1+build1/dom/ipc/jsactor/JSWindowActorChild.cpp:57
+1684516756491	Marionette	INFO	Stopped listening on port 36985
+1684516765422	geckodriver	INFO	Listening on 127.0.0.1:38811
+1684516765453	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/usr ... te" "--remote-debugging-port" "41143" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileuq7VbN"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1684516768142	Marionette	INFO	Marionette enabled
+1684516768147	Marionette	INFO	Listening on port 35195
+Read port: 35195
+WebDriver BiDi listening on ws://127.0.0.1:41143
+1684516768310	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: ({})
+[ERROR glean_core] Error setting metrics feature config: Json(Error("EOF while parsing a value", line: 1, column: 0))
+DevTools listening on ws://127.0.0.1:41143/devtools/browser/d766d682-749f-4f85-9161-5c2c4274e66a
+console.error: (new TypeError("this._searchProviderInfo is null", "resource:///modules/SearchSERPTelemetry.sys.mjs", 502))
+console.error: (new TypeError("linkMap is undefined", "resource://gre/modules/NewTabUtils.sys.mjs", 2019))
+JavaScript error: http://localhost:3000/_next/static/chunks/main-app.js line 982 > eval, line 900: Error: Algo está errado
+JavaScript error: http://localhost:3000/_next/static/chunks/main-app.js line 982 > eval, line 900: Error: Algo está errado
+JavaScript error: http://localhost:3000/_next/static/chunks/main-app.js line 982 > eval, line 900: Error: Algo está errado
+JavaScript error: http://localhost:3000/_next/static/chunks/main-app.js line 982 > eval, line 900: Error: Algo está errado
+JavaScript error: http://localhost:3000/_next/static/chunks/main-app.js line 982 > eval, line 900: Error: Algo está errado
+JavaScript error: http://localhost:3000/_next/static/chunks/main-app.js line 982 > eval, line 900: Error: Algo está errado
+JavaScript error: http://localhost:3000/_next/static/chunks/main-app.js line 982 > eval, line 900: Error: Algo está errado
+JavaScript error: http://localhost:3000/_next/static/chunks/main-app.js line 982 > eval, line 900: Error: Algo está errado
+JavaScript error: http://localhost:3000/_next/static/chunks/main-app.js line 982 > eval, line 900: Error: Algo está errado
+JavaScript error: http://localhost:3000/_next/static/chunks/main-app.js line 982 > eval, line 900: Error: Algo está errado
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://accounts.google.com."
+JavaScript error: http://localhost:3000/_next/static/chunks/main-app.js line 982 > eval, line 900: Error: Algo está errado
+JavaScript error: http://localhost:3000/_next/static/chunks/main-app.js line 982 > eval, line 900: Error: Algo está errado
+JavaScript error: http://localhost:3000/_next/static/chunks/main-app.js line 982 > eval, line 900: Error: Algo está errado
+JavaScript error: http://localhost:3000/_next/static/chunks/main-app.js line 982 > eval, line 900: Error: Algo está errado
+JavaScript error: http://localhost:3000/_next/static/chunks/main-app.js line 982 > eval, line 900: Error: Algo está errado
+JavaScript error: http://localhost:3000/_next/static/chunks/main-app.js line 982 > eval, line 900: Error: Algo está errado
+JavaScript error: http://localhost:3000/_next/static/chunks/main-app.js line 982 > eval, line 900: Error: Algo está errado
+JavaScript error: http://localhost:3000/_next/static/chunks/main-app.js line 982 > eval, line 900: Error: Algo está errado
+JavaScript error: http://localhost:3000/_next/static/chunks/main-app.js line 982 > eval, line 900: Error: Algo está errado
+JavaScript error: http://localhost:3000/_next/static/chunks/main-app.js line 982 > eval, line 900: Error: Algo está errado
+JavaScript error: http://localhost:3000/_next/static/chunks/main-app.js line 982 > eval, line 900: Error: Algo está errado
+JavaScript error: http://localhost:3000/_next/static/chunks/main-app.js line 982 > eval, line 900: Error: Algo está errado
+JavaScript error: http://localhost:3000/_next/static/chunks/main-app.js line 982 > eval, line 900: Error: Algo está errado
+JavaScript error: http://localhost:3000/_next/static/chunks/main-app.js line 982 > eval, line 900: Error: Algo está errado
+JavaScript error: http://localhost:3000/_next/static/chunks/main-app.js line 982 > eval, line 900: Error: Algo está errado
+JavaScript error: http://localhost:3000/_next/static/chunks/main-app.js line 982 > eval, line 900: Error: Algo está errado
+JavaScript error: http://localhost:3000/_next/static/chunks/main-app.js line 982 > eval, line 900: Error: Algo está errado
+JavaScript error: http://localhost:3000/_next/static/chunks/main-app.js line 982 > eval, line 900: Error: Algo está errado
+JavaScript error: http://localhost:3000/_next/static/chunks/main-app.js line 982 > eval, line 900: Error: Algo está errado
+JavaScript error: http://localhost:3000/_next/static/chunks/main-app.js line 982 > eval, line 900: Error: Algo está errado
+JavaScript error: http://localhost:3000/_next/static/chunks/main-app.js line 982 > eval, line 900: Error: Algo está errado
+JavaScript error: http://localhost:3000/_next/static/chunks/main-app.js line 982 > eval, line 900: Error: Algo está errado
+JavaScript error: http://localhost:3000/_next/static/chunks/main-app.js line 982 > eval, line 900: Error: Algo está errado
+JavaScript error: http://localhost:3000/_next/static/chunks/main-app.js line 982 > eval, line 900: Error: Algo está errado
+JavaScript error: http://localhost:3000/_next/static/chunks/main-app.js line 982 > eval, line 900: Error: Algo está errado
+JavaScript error: http://localhost:3000/_next/static/chunks/main-app.js line 982 > eval, line 900: Error: Algo está errado
+JavaScript error: http://localhost:3000/_next/static/chunks/main-app.js line 982 > eval, line 900: Error: Algo está errado
+JavaScript error: http://localhost:3000/_next/static/chunks/main-app.js line 982 > eval, line 900: Error: Algo está errado
+JavaScript error: http://localhost:3000/_next/static/chunks/main-app.js line 982 > eval, line 900: Error: Algo está errado
+JavaScript error: http://localhost:3000/_next/static/chunks/main-app.js line 982 > eval, line 900: Error: Algo está errado
+JavaScript error: http://localhost:3000/_next/static/chunks/main-app.js line 982 > eval, line 900: Error: Algo está errado
+JavaScript error: http://localhost:3000/_next/static/chunks/main-app.js line 982 > eval, line 900: Error: Algo está errado
+JavaScript error: http://localhost:3000/_next/static/chunks/main-app.js line 982 > eval, line 900: Error: Algo está errado
+JavaScript error: http://localhost:3000/_next/static/chunks/main-app.js line 982 > eval, line 900: Error: Algo está errado
+JavaScript error: http://localhost:3000/_next/static/chunks/main-app.js line 982 > eval, line 900: Error: Algo está errado
+JavaScript error: http://localhost:3000/_next/static/chunks/main-app.js line 982 > eval, line 900: Error: Algo está errado
+JavaScript error: http://localhost:3000/_next/static/chunks/main-app.js line 982 > eval, line 900: Error: Algo está errado
+JavaScript error: http://localhost:3000/_next/static/chunks/main-app.js line 982 > eval, line 900: Error: Algo está errado
+JavaScript error: http://localhost:3000/_next/static/chunks/main-app.js line 982 > eval, line 900: Error: Algo está errado
+JavaScript error: http://localhost:3000/_next/static/chunks/main-app.js line 982 > eval, line 900: Error: Algo está errado
+JavaScript error: http://localhost:3000/_next/static/chunks/main-app.js line 982 > eval, line 900: Error: Algo está errado
+JavaScript error: http://localhost:3000/_next/static/chunks/main-app.js line 982 > eval, line 900: Error: Algo está errado
+JavaScript error: http://localhost:3000/_next/static/chunks/main-app.js line 982 > eval, line 900: Error: Algo está errado
+JavaScript error: http://localhost:3000/_next/static/chunks/main-app.js line 982 > eval, line 900: Error: Algo está errado
+JavaScript error: http://localhost:3000/_next/static/chunks/main-app.js line 982 > eval, line 900: Error: Algo está errado
+JavaScript error: http://localhost:3000/_next/static/chunks/main-app.js line 982 > eval, line 900: Error: Algo está errado
+JavaScript error: http://localhost:3000/_next/static/chunks/main-app.js line 982 > eval, line 900: Error: Algo está errado
+JavaScript error: http://localhost:3000/_next/static/chunks/main-app.js line 982 > eval, line 900: Error: Algo está errado
+JavaScript error: http://localhost:3000/_next/static/chunks/main-app.js line 982 > eval, line 900: Error: Algo está errado
+JavaScript error: http://localhost:3000/_next/static/chunks/main-app.js line 982 > eval, line 900: Error: Algo está errado
+JavaScript error: http://localhost:3000/_next/static/chunks/main-app.js line 982 > eval, line 900: Error: Algo está errado
+JavaScript error: http://localhost:3000/_next/static/chunks/main-app.js line 982 > eval, line 900: Error: Algo está errado
+JavaScript error: http://localhost:3000/_next/static/chunks/main-app.js line 982 > eval, line 900: Error: Algo está errado
+JavaScript error: http://localhost:3000/_next/static/chunks/main-app.js line 982 > eval, line 900: Error: Algo está errado
+JavaScript error: http://localhost:3000/_next/static/chunks/main-app.js line 982 > eval, line 900: Error: Algo está errado
+JavaScript error: http://localhost:3000/_next/static/chunks/main-app.js line 982 > eval, line 900: Error: Algo está errado
+JavaScript error: http://localhost:3000/_next/static/chunks/main-app.js line 982 > eval, line 900: Error: Algo está errado
+JavaScript error: http://localhost:3000/_next/static/chunks/main-app.js line 982 > eval, line 900: Error: Algo está errado
+JavaScript error: http://localhost:3000/_next/static/chunks/main-app.js line 982 > eval, line 900: Error: Algo está errado
+JavaScript error: http://localhost:3000/_next/static/chunks/main-app.js line 982 > eval, line 900: Error: Algo está errado
+JavaScript error: http://localhost:3000/_next/static/chunks/main-app.js line 982 > eval, line 900: Error: Algo está errado
+JavaScript error: http://localhost:3000/_next/static/chunks/main-app.js line 982 > eval, line 900: Error: Algo está errado
+JavaScript error: http://localhost:3000/_next/static/chunks/main-app.js line 982 > eval, line 900: Error: Algo está errado
+JavaScript error: http://localhost:3000/_next/static/chunks/main-app.js line 982 > eval, line 900: Error: Algo está errado
+JavaScript error: http://localhost:3000/_next/static/chunks/main-app.js line 982 > eval, line 900: Error: Algo está errado
+JavaScript error: http://localhost:3000/_next/static/chunks/main-app.js line 982 > eval, line 900: Error: Algo está errado
+JavaScript error: http://localhost:3000/_next/static/chunks/main-app.js line 982 > eval, line 900: Error: Algo está errado
+JavaScript error: http://localhost:3000/_next/static/chunks/main-app.js line 982 > eval, line 900: Error: Algo está errado
+JavaScript error: http://localhost:3000/_next/static/chunks/main-app.js line 982 > eval, line 900: Error: Algo está errado
+JavaScript error: http://localhost:3000/_next/static/chunks/main-app.js line 982 > eval, line 900: Error: Algo está errado
+JavaScript error: http://localhost:3000/_next/static/chunks/main-app.js line 982 > eval, line 900: Error: Algo está errado
+JavaScript error: http://localhost:3000/_next/static/chunks/main-app.js line 982 > eval, line 900: Error: Algo está errado
+JavaScript error: http://localhost:3000/_next/static/chunks/main-app.js line 982 > eval, line 900: Error: Algo está errado
+JavaScript error: http://localhost:3000/_next/static/chunks/main-app.js line 982 > eval, line 900: Error: Algo está errado
+JavaScript error: http://localhost:3000/_next/static/chunks/main-app.js line 982 > eval, line 900: Error: Algo está errado
+JavaScript error: http://localhost:3000/_next/static/chunks/main-app.js line 982 > eval, line 900: Error: Algo está errado
+JavaScript error: http://localhost:3000/_next/static/chunks/main-app.js line 982 > eval, line 900: Error: Algo está errado
+JavaScript error: http://localhost:3000/_next/static/chunks/main-app.js line 982 > eval, line 900: Error: Algo está errado
+JavaScript error: http://localhost:3000/_next/static/chunks/main-app.js line 982 > eval, line 900: Error: Algo está errado
+JavaScript error: http://localhost:3000/_next/static/chunks/main-app.js line 982 > eval, line 900: Error: Algo está errado
+JavaScript error: http://localhost:3000/_next/static/chunks/main-app.js line 982 > eval, line 900: Error: Algo está errado
+JavaScript error: http://localhost:3000/_next/static/chunks/main-app.js line 982 > eval, line 900: Error: Algo está errado
+JavaScript error: http://localhost:3000/_next/static/chunks/main-app.js line 982 > eval, line 900: Error: Algo está errado
+JavaScript error: http://localhost:3000/_next/static/chunks/main-app.js line 982 > eval, line 900: Error: Algo está errado
+JavaScript error: http://localhost:3000/_next/static/chunks/main-app.js line 982 > eval, line 900: Error: Algo está errado
+JavaScript error: http://localhost:3000/_next/static/chunks/main-app.js line 982 > eval, line 900: Error: Algo está errado
+JavaScript error: http://localhost:3000/_next/static/chunks/main-app.js line 982 > eval, line 900: Error: Algo está errado
+JavaScript error: http://localhost:3000/_next/static/chunks/main-app.js line 982 > eval, line 900: Error: Algo está errado
+JavaScript error: http://localhost:3000/_next/static/chunks/main-app.js line 982 > eval, line 900: Error: Algo está errado
+JavaScript error: http://localhost:3000/_next/static/chunks/main-app.js line 982 > eval, line 900: Error: Algo está errado
+JavaScript error: http://localhost:3000/_next/static/chunks/main-app.js line 982 > eval, line 900: Error: Algo está errado
+JavaScript error: http://localhost:3000/_next/static/chunks/main-app.js line 982 > eval, line 900: Error: Algo está errado
+JavaScript error: http://localhost:3000/_next/static/chunks/main-app.js line 982 > eval, line 900: Error: Algo está errado
+JavaScript error: http://localhost:3000/_next/static/chunks/main-app.js line 982 > eval, line 900: Error: Algo está errado
+JavaScript error: http://localhost:3000/_next/static/chunks/main-app.js line 982 > eval, line 900: Error: Algo está errado
+JavaScript error: http://localhost:3000/_next/static/chunks/main-app.js line 982 > eval, line 900: Error: Algo está errado
+JavaScript error: http://localhost:3000/_next/static/chunks/main-app.js line 982 > eval, line 900: Error: Algo está errado
+JavaScript error: http://localhost:3000/_next/static/chunks/main-app.js line 982 > eval, line 900: Error: Algo está errado
+JavaScript error: http://localhost:3000/_next/static/chunks/main-app.js line 982 > eval, line 900: Error: Algo está errado
+JavaScript error: http://localhost:3000/_next/static/chunks/main-app.js line 982 > eval, line 900: Error: Algo está errado
+JavaScript error: http://localhost:3000/_next/static/chunks/main-app.js line 982 > eval, line 900: Error: Algo está errado
+JavaScript error: http://localhost:3000/_next/static/chunks/main-app.js line 982 > eval, line 900: Error: Algo está errado
+JavaScript error: http://localhost:3000/_next/static/chunks/main-app.js line 982 > eval, line 900: Error: Algo está errado
+JavaScript error: http://localhost:3000/_next/static/chunks/main-app.js line 982 > eval, line 900: Error: Algo está errado
+JavaScript error: http://localhost:3000/_next/static/chunks/main-app.js line 982 > eval, line 900: Error: Algo está errado
+JavaScript error: http://localhost:3000/_next/static/chunks/main-app.js line 982 > eval, line 900: Error: Algo está errado
+JavaScript error: http://localhost:3000/_next/static/chunks/main-app.js line 982 > eval, line 900: Error: Algo está errado
+JavaScript error: http://localhost:3000/_next/static/chunks/main-app.js line 982 > eval, line 900: Error: Algo está errado
+JavaScript error: http://localhost:3000/_next/static/chunks/main-app.js line 982 > eval, line 900: Error: Algo está errado
+JavaScript error: http://localhost:3000/_next/static/chunks/main-app.js line 982 > eval, line 900: Error: Algo está errado
+console.error: "update.locale" " file doesn't exist in either the application or GRE directories"
+JavaScript error: http://localhost:3000/_next/static/chunks/main-app.js line 982 > eval, line 900: Error: Algo está errado
+JavaScript error: http://localhost:3000/_next/static/chunks/main-app.js line 982 > eval, line 900: Error: Algo está errado
+JavaScript error: http://localhost:3000/_next/static/chunks/main-app.js line 982 > eval, line 900: Error: Algo está errado
+JavaScript error: http://localhost:3000/_next/static/chunks/main-app.js line 982 > eval, line 900: Error: Algo está errado
+JavaScript error: http://localhost:3000/_next/static/chunks/main-app.js line 982 > eval, line 900: Error: Algo está errado
+JavaScript error: http://localhost:3000/_next/static/chunks/main-app.js line 982 > eval, line 900: Error: Algo está errado
+JavaScript error: http://localhost:3000/_next/static/chunks/main-app.js line 982 > eval, line 900: Error: Algo está errado
+JavaScript error: http://localhost:3000/_next/static/chunks/main-app.js line 982 > eval, line 900: Error: Algo está errado
+JavaScript error: http://localhost:3000/_next/static/chunks/main-app.js line 982 > eval, line 900: Error: Algo está errado
+JavaScript error: http://localhost:3000/_next/static/chunks/main-app.js line 982 > eval, line 900: Error: Algo está errado
+JavaScript error: http://localhost:3000/_next/static/chunks/main-app.js line 982 > eval, line 900: Error: Algo está errado
+JavaScript error: http://localhost:3000/_next/static/chunks/main-app.js line 982 > eval, line 900: Error: Algo está errado
+JavaScript error: http://localhost:3000/_next/static/chunks/main-app.js line 982 > eval, line 900: Error: Algo está errado
+JavaScript error: http://localhost:3000/_next/static/chunks/main-app.js line 982 > eval, line 900: Error: Algo está errado
+JavaScript error: http://localhost:3000/_next/static/chunks/main-app.js line 982 > eval, line 900: Error: Algo está errado
+JavaScript error: http://localhost:3000/_next/static/chunks/main-app.js line 982 > eval, line 900: Error: Algo está errado
+JavaScript error: http://localhost:3000/_next/static/chunks/main-app.js line 982 > eval, line 900: Error: Algo está errado
+JavaScript error: http://localhost:3000/_next/static/chunks/main-app.js line 982 > eval, line 900: Error: Algo está errado
+JavaScript error: http://localhost:3000/_next/static/chunks/main-app.js line 982 > eval, line 900: Error: Algo está errado
+JavaScript error: http://localhost:3000/_next/static/chunks/main-app.js line 982 > eval, line 900: Error: Algo está errado
+JavaScript error: http://localhost:3000/_next/static/chunks/main-app.js line 982 > eval, line 900: Error: Algo está errado
+JavaScript error: http://localhost:3000/_next/static/chunks/main-app.js line 982 > eval, line 900: Error: Algo está errado
+JavaScript error: http://localhost:3000/_next/static/chunks/main-app.js line 982 > eval, line 900: Error: Algo está errado
+JavaScript error: http://localhost:3000/_next/static/chunks/main-app.js line 982 > eval, line 900: Error: Algo está errado
+JavaScript error: http://localhost:3000/_next/static/chunks/main-app.js line 982 > eval, line 900: Error: Algo está errado
+JavaScript error: http://localhost:3000/_next/static/chunks/main-app.js line 982 > eval, line 900: Error: Algo está errado
+JavaScript error: http://localhost:3000/_next/static/chunks/main-app.js line 982 > eval, line 900: Error: Algo está errado
+JavaScript error: http://localhost:3000/_next/static/chunks/main-app.js line 982 > eval, line 900: Error: Algo está errado
+JavaScript error: http://localhost:3000/_next/static/chunks/main-app.js line 982 > eval, line 900: Error: Algo está errado
+JavaScript error: http://localhost:3000/_next/static/chunks/main-app.js line 982 > eval, line 900: Error: Algo está errado
+JavaScript error: http://localhost:3000/_next/static/chunks/main-app.js line 982 > eval, line 900: Error: Algo está errado
+JavaScript error: http://localhost:3000/_next/static/chunks/main-app.js line 982 > eval, line 900: Error: Algo está errado
+JavaScript error: http://localhost:3000/_next/static/chunks/main-app.js line 982 > eval, line 900: Error: Algo está errado
+JavaScript error: http://localhost:3000/_next/static/chunks/main-app.js line 982 > eval, line 900: Error: Algo está errado
+JavaScript error: http://localhost:3000/_next/static/chunks/main-app.js line 982 > eval, line 900: Error: Algo está errado
+JavaScript error: http://localhost:3000/_next/static/chunks/main-app.js line 982 > eval, line 900: Error: Algo está errado
+JavaScript error: http://localhost:3000/_next/static/chunks/main-app.js line 982 > eval, line 900: Error: Algo está errado
+JavaScript error: http://localhost:3000/_next/static/chunks/main-app.js line 982 > eval, line 900: Error: Algo está errado
+JavaScript error: http://localhost:3000/_next/static/chunks/main-app.js line 982 > eval, line 900: Error: Algo está errado
+JavaScript error: http://localhost:3000/_next/static/chunks/main-app.js line 982 > eval, line 900: Error: Algo está errado
+JavaScript error: http://localhost:3000/_next/static/chunks/main-app.js line 982 > eval, line 900: Error: Algo está errado
+JavaScript error: http://localhost:3000/_next/static/chunks/main-app.js line 982 > eval, line 900: Error: Algo está errado
+JavaScript error: http://localhost:3000/_next/static/chunks/main-app.js line 982 > eval, line 900: Error: Algo está errado
+JavaScript error: http://localhost:3000/_next/static/chunks/main-app.js line 982 > eval, line 900: Error: Algo está errado
+JavaScript error: http://localhost:3000/_next/static/chunks/main-app.js line 982 > eval, line 900: Error: Algo está errado
+JavaScript error: http://localhost:3000/_next/static/chunks/main-app.js line 982 > eval, line 900: Error: Algo está errado
+JavaScript error: http://localhost:3000/_next/static/chunks/main-app.js line 982 > eval, line 900: Error: Algo está errado
+JavaScript error: http://localhost:3000/_next/static/chunks/main-app.js line 982 > eval, line 900: Error: Algo está errado
+JavaScript error: http://localhost:3000/_next/static/chunks/main-app.js line 982 > eval, line 900: Error: Algo está errado
+JavaScript error: http://localhost:3000/_next/static/chunks/main-app.js line 982 > eval, line 900: Error: Algo está errado
+JavaScript error: http://localhost:3000/_next/static/chunks/main-app.js line 982 > eval, line 900: Error: Algo está errado
+JavaScript error: http://localhost:3000/_next/static/chunks/main-app.js line 982 > eval, line 900: Error: Algo está errado
+JavaScript error: http://localhost:3000/_next/static/chunks/main-app.js line 982 > eval, line 900: Error: Algo está errado
+JavaScript error: http://localhost:3000/_next/static/chunks/main-app.js line 982 > eval, line 900: Error: Algo está errado
+JavaScript error: http://localhost:3000/_next/static/chunks/main-app.js line 982 > eval, line 900: Error: Algo está errado
+JavaScript error: http://localhost:3000/_next/static/chunks/main-app.js line 982 > eval, line 900: Error: Algo está errado
+JavaScript error: http://localhost:3000/_next/static/chunks/main-app.js line 982 > eval, line 900: Error: Algo está errado
+JavaScript error: http://localhost:3000/_next/static/chunks/main-app.js line 982 > eval, line 900: Error: Algo está errado
+JavaScript error: http://localhost:3000/_next/static/chunks/main-app.js line 982 > eval, line 900: Error: Algo está errado
+JavaScript error: http://localhost:3000/_next/static/chunks/main-app.js line 982 > eval, line 900: Error: Algo está errado
+JavaScript error: http://localhost:3000/_next/static/chunks/main-app.js line 982 > eval, line 900: Error: Algo está errado
+JavaScript error: http://localhost:3000/_next/static/chunks/main-app.js line 982 > eval, line 900: Error: Algo está errado
+JavaScript error: http://localhost:3000/_next/static/chunks/main-app.js line 982 > eval, line 900: Error: Algo está errado
+JavaScript error: http://localhost:3000/_next/static/chunks/main-app.js line 982 > eval, line 900: Error: Algo está errado
+JavaScript error: http://localhost:3000/_next/static/chunks/main-app.js line 982 > eval, line 900: Error: Algo está errado
+JavaScript error: http://localhost:3000/_next/static/chunks/main-app.js line 982 > eval, line 900: Error: Algo está errado
+JavaScript error: http://localhost:3000/_next/static/chunks/main-app.js line 982 > eval, line 900: Error: Algo está errado
+JavaScript error: http://localhost:3000/_next/static/chunks/main-app.js line 982 > eval, line 900: Error: Algo está errado
+JavaScript error: http://localhost:3000/_next/static/chunks/main-app.js line 982 > eval, line 900: Error: Algo está errado
+JavaScript error: http://localhost:3000/_next/static/chunks/main-app.js line 982 > eval, line 900: Error: Algo está errado
+[Child 15506, Main Thread] WARNING: JSWindowActorChild::SendRawMessage (Conduits, ConduitClosed) not sent: !CanSend() || !mManager || !mManager->CanSend(): file /build/firefox-sx15yn/firefox-113.0.1+build1/dom/ipc/jsactor/JSWindowActorChild.cpp:57
+[Child 15506, Main Thread] WARNING: JSWindowActorChild::SendRawMessage (Conduits, ConduitClosed) not sent: !CanSend() || !mManager || !mManager->CanSend(): file /build/firefox-sx15yn/firefox-113.0.1+build1/dom/ipc/jsactor/JSWindowActorChild.cpp:57
+[Child 15506, Main Thread] WARNING: JSWindowActorChild::SendRawMessage (Conduits, ConduitClosed) not sent: !CanSend() || !mManager || !mManager->CanSend(): file /build/firefox-sx15yn/firefox-113.0.1+build1/dom/ipc/jsactor/JSWindowActorChild.cpp:57
+[Child 15506, Main Thread] WARNING: JSWindowActorChild::SendRawMessage (Conduits, ConduitClosed) not sent: !CanSend() || !mManager || !mManager->CanSend(): file /build/firefox-sx15yn/firefox-113.0.1+build1/dom/ipc/jsactor/JSWindowActorChild.cpp:57
+[Child 15506, Main Thread] WARNING: JSWindowActorChild::SendRawMessage (Conduits, ConduitClosed) not sent: !CanSend() || !mManager || !mManager->CanSend(): file /build/firefox-sx15yn/firefox-113.0.1+build1/dom/ipc/jsactor/JSWindowActorChild.cpp:57
+[Child 15506, Main Thread] WARNING: JSWindowActorChild::SendRawMessage (Conduits, ConduitClosed) not sent: !CanSend() || !mManager || !mManager->CanSend(): file /build/firefox-sx15yn/firefox-113.0.1+build1/dom/ipc/jsactor/JSWindowActorChild.cpp:57
+[Child 15506, Main Thread] WARNING: JSWindowActorChild::SendRawMessage (Conduits, ConduitClosed) not sent: !CanSend() || !mManager || !mManager->CanSend(): file /build/firefox-sx15yn/firefox-113.0.1+build1/dom/ipc/jsactor/JSWindowActorChild.cpp:57
+[Child 15506, Main Thread] WARNING: JSWindowActorChild::SendRawMessage (Conduits, ConduitClosed) not sent: !CanSend() || !mManager || !mManager->CanSend(): file /build/firefox-sx15yn/firefox-113.0.1+build1/dom/ipc/jsactor/JSWindowActorChild.cpp:57
+1684516940089	Marionette	INFO	Stopped listening on port 35195
+1684516947503	geckodriver	INFO	Listening on 127.0.0.1:56779
+1684516947524	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/usr ... te" "--remote-debugging-port" "38371" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofiles7T3De"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1684516949767	Marionette	INFO	Marionette enabled
+1684516949772	Marionette	INFO	Listening on port 34207
+Read port: 34207
+WebDriver BiDi listening on ws://127.0.0.1:38371
+1684516949904	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: ({})
+[ERROR glean_core] Error setting metrics feature config: Json(Error("EOF while parsing a value", line: 1, column: 0))
+DevTools listening on ws://127.0.0.1:38371/devtools/browser/cf5682e2-8df6-4dd5-97b3-286342868fe7
+1684516953241	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+console.error: "update.locale" " file doesn't exist in either the application or GRE directories"
+JavaScript error: resource://gre/modules/XULStore.sys.mjs, line 58: Error: Can't find profile directory.
+JavaScript error: resource://gre/modules/XULStore.sys.mjs, line 58: Error: Can't find profile directory.
+JavaScript error: resource://gre/modules/XULStore.sys.mjs, line 58: Error: Can't find profile directory.
+JavaScript error: http://localhost:3000/_next/static/chunks/main-app.js line 982 > eval, line 900: Error: Algo está errado
+JavaScript error: http://localhost:3000/_next/static/chunks/main-app.js line 982 > eval, line 900: Error: Algo está errado
+JavaScript error: http://localhost:3000/_next/static/chunks/main-app.js line 982 > eval, line 900: Error: Algo está errado
+JavaScript error: http://localhost:3000/_next/static/chunks/main-app.js line 982 > eval, line 900: Error: Algo está errado
+JavaScript error: http://localhost:3000/_next/static/chunks/main-app.js line 982 > eval, line 900: Error: Algo está errado
+JavaScript error: http://localhost:3000/_next/static/chunks/main-app.js line 982 > eval, line 900: Error: Algo está errado
+JavaScript error: http://localhost:3000/_next/static/chunks/main-app.js line 982 > eval, line 900: Error: Algo está errado
+JavaScript error: http://localhost:3000/_next/static/chunks/main-app.js line 982 > eval, line 900: Error: Algo está errado
+JavaScript error: http://localhost:3000/_next/static/chunks/main-app.js line 982 > eval, line 900: Error: Algo está errado
+JavaScript error: http://localhost:3000/_next/static/chunks/main-app.js line 982 > eval, line 900: Error: Algo está errado
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://accounts.google.com."
+JavaScript warning: https://accounts.google.com/v3/signin/identifier?dsh=S-251450113%3A1684516998462863&access_type=offline&client_id=16421419963-k2angvap8hdeficq8j6cbhj377924tqh.apps.googleusercontent.com&o2v=1&redirect_uri=http%3A%2F%2F127.0.0.1%3A5000%2Fuser%2Fauth%2Fcallback&response_type=code&scope=https%3A%2F%2Fwww.googleapis.com%2Fauth%2Fuserinfo.profile+https%3A%2F%2Fwww.googleapis.com%2Fauth%2Fuserinfo.email+openid&service=lso&state=KxWjcTVERrGmb65vbYHvOVg68D20WJ&flowName=GeneralOAuthFlow&continue=https%3A%2F%2Faccounts.google.com%2Fsignin%2Foauth%2Fconsent%3Fauthuser%3Dunknown%26part%3DAJi8hAPHscY7vwp2eNOCLo5NzLjH0GdsO8AOJwJ0ZZZeop489-VB4eRndXiHbZavyTUZUeEWgK4Ke4fjcMT2e0jHtQ53fYjegx113DjXusij2OUKAzkhf1HCUckmi31iXjqZhS3Jd6HzRQUDJdNHG-UxHn97521xdlYbsp4zZZXQ947ae0Ng_MgKH7rfT1s_oOdzGhb-E9oFq3wiBdm7E0Ia-pYWLdUKGwYILHERzlFQl5Z7vt_PN-ywrHrYtTU_PtsHojiPRoeceui5ckR1aLvBcMd7tnf5AnSguth3djl6qHz7vSmt3pd-aujaGTMLIGZaxLCoIB8M8vBKxMTD2iW4yI6xLM9yeEXXdqttBBbHJnGN8pbEQjIsBunBW0Pqyk5OaAPa1Sgur_ImUSWPVdcploA3ClsQGZXvyYJ2Vwy2FaYiieNixic6K71rKJL7PQ11_5E0HqUv6h0yCDy_ZT2W0z5ePzo6yw%26as%3DS-251450113%253A1684516998462863%26client_id%3D16421419963-k2angvap8hdeficq8j6cbhj377924tqh.apps.googleusercontent.com%23&app_domain=http%3A%2F%2F127.0.0.1%3A5000&rart=ANgoxcfOSpSRYeSCZlxiPMEOdsqCeQmiogSWJCQMLjPguJyVHcJYmLas--JyjkHGabZ8wpquFSrOaKa01jrUoh0hsP6qPM7k8A line 205 > injectedScript line 2 > eval line 4377 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://accounts.google.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://accounts.google.com."
+JavaScript warning: https://accounts.google.com/v3/signin/identifier?opparams=%253Frart%253DANgoxcfOSpSRYeSCZlxiPMEOdsqCeQmiogSWJCQMLjPguJyVHcJYmLas--JyjkHGabZ8wpquFSrOaKa01jrUoh0hsP6qPM7k8A%2526flowName%253DGeneralOAuthFlow%2526service%253Dlso%2526dsh%253DS-251450113%25253A1684516998462863&dsh=S-251450113%3A1684516998462863&access_type=offline&app_domain=http%3A%2F%2F127.0.0.1%3A5000&client_id=16421419963-k2angvap8hdeficq8j6cbhj377924tqh.apps.googleusercontent.com&continue=https%3A%2F%2Faccounts.google.com%2Fsignin%2Foauth%2Fconsent%3Fauthuser%3Dunknown%26part%3DAJi8hAOaq37KkwmTIQNRKI95LOiPPMEwlsd9eI69od1GQ_wqNfE0t9ULTD5XRkDwC3-4fOEY6dbsY5A1Rm6jpia9DjZSV_Q_R3JHhB_AZ249ZC8yy7y9QYTI0NRNgNu2BJNFAFwtMS8lGs155dlC9PgNTtujs4K7aOIsHn0Uv6-O10fJZGX8w-0iLgFmpVztBEyHnSSPAWvGQn0D4fl-k1RGDYp8yVcUq3lW72D-PH2wqtWbICuQisolYsIXdAxrGWDUqM2E4AzrIZY4Pld2QKWkvuI6L4u8XoAKtyvuRSnuBLiHuzIA6y-OQqnnbE4xe9kr5909UOfCxcZqmwmioKFZc9kftqPf1iXKkhcC6kUpBbLZMtlpTKL3F0404lSmVQ6QEEUTltAmIA1xuGfr0RLlwNujhMVQSfg9NQ9vbjdsLOVVOltPH_PfI_oHV6P42K0-QQiOSzk8gtpxsmpyEgUQI1hjvT-Sdw%26as%3DS1544214191%253A1684517036998241%26client_id%3D16421419963-k2angvap8hdeficq8j6cbhj377924tqh.apps.googleusercontent.com%23&flowName=GeneralOAuthFlow&o2v=1&rart=ANgoxcetr1H53nFJaZeTrNG_Z_d-jGkbAzt28XKlpS4NM97HOpQBUcHVv7SOd3ppb7wW7C_V7O3-OjLHDHDRJz0_L4x6vuMY2w&redirect_uri=http%3A%2F%2F127.0.0.1%3A5000%2Fuser%2Fauth%2Fcallback&response_type=code&scope=https%3A%2F%2Fwww.googleapis.com%2Fauth%2Fuserinfo.profile+https%3A%2F%2Fwww.googleapis.com%2Fauth%2Fuserinfo.email+openid&service=lso&state=KxWjcTVERrGmb65vbYHvOVg68D20WJ line 4 > injectedScript line 2 > eval line 3410 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://accounts.google.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://accounts.google.com."
+[Child 17174, Main Thread] WARNING: JSWindowActorChild::SendRawMessage (Conduits, ConduitClosed) not sent: !CanSend() || !mManager || !mManager->CanSend(): file /build/firefox-sx15yn/firefox-113.0.1+build1/dom/ipc/jsactor/JSWindowActorChild.cpp:57
+[Child 17174, Main Thread] WARNING: JSWindowActorChild::SendRawMessage (Conduits, ConduitClosed) not sent: !CanSend() || !mManager || !mManager->CanSend(): file /build/firefox-sx15yn/firefox-113.0.1+build1/dom/ipc/jsactor/JSWindowActorChild.cpp:57
+[Child 17174, Main Thread] WARNING: JSWindowActorChild::SendRawMessage (Conduits, ConduitClosed) not sent: !CanSend() || !mManager || !mManager->CanSend(): file /build/firefox-sx15yn/firefox-113.0.1+build1/dom/ipc/jsactor/JSWindowActorChild.cpp:57
+[Child 17174, Main Thread] WARNING: JSWindowActorChild::SendRawMessage (Conduits, ConduitClosed) not sent: !CanSend() || !mManager || !mManager->CanSend(): file /build/firefox-sx15yn/firefox-113.0.1+build1/dom/ipc/jsactor/JSWindowActorChild.cpp:57
+[Child 17174, Main Thread] WARNING: JSWindowActorChild::SendRawMessage (Conduits, ConduitClosed) not sent: !CanSend() || !mManager || !mManager->CanSend(): file /build/firefox-sx15yn/firefox-113.0.1+build1/dom/ipc/jsactor/JSWindowActorChild.cpp:57
+[Child 17174, Main Thread] WARNING: JSWindowActorChild::SendRawMessage (Conduits, ConduitClosed) not sent: !CanSend() || !mManager || !mManager->CanSend(): file /build/firefox-sx15yn/firefox-113.0.1+build1/dom/ipc/jsactor/JSWindowActorChild.cpp:57
+[Child 17174, Main Thread] WARNING: JSWindowActorChild::SendRawMessage (Conduits, ConduitClosed) not sent: !CanSend() || !mManager || !mManager->CanSend(): file /build/firefox-sx15yn/firefox-113.0.1+build1/dom/ipc/jsactor/JSWindowActorChild.cpp:57
+[Child 17174, Main Thread] WARNING: JSWindowActorChild::SendRawMessage (Conduits, ConduitClosed) not sent: !CanSend() || !mManager || !mManager->CanSend(): file /build/firefox-sx15yn/firefox-113.0.1+build1/dom/ipc/jsactor/JSWindowActorChild.cpp:57
+1684517088938	Marionette	INFO	Stopped listening on port 34207
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.

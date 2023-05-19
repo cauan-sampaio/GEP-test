@@ -7,7 +7,7 @@ import os
 computer_registration = ComputerRegistration()
 computer_registration.open_website('http://localhost:3000/machines')
 
-computer_registration.register_computer('fdge"aSDAsASQsasfdfds"', 'scsdafdfvW', '"zzsdfsafegffdssde"',2)
+computer_registration.register_computer('fdgeaSDAsASQsasfdfds', 'scsdafdfvW', 'zzsdfsafegffdssde',2)
 
 try:
     # Realizar tratamento
