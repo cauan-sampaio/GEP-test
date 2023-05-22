@@ -6,7 +6,7 @@ import threading
 import os
 
 computer_registration = ComputerRegistration()
-computer_registration.open_website('https://localhost:3000/machines')
+computer_registration.open_website('http://localhost:3000/users')
 
 computer_registration.register_computer('jjhjgj-1221344321+77686656', 'pc 01111',
                                         'Intel i5 4 geração, memória RAM: 8 GB, HD:1TB, placa de vídeo:Integrada', 2)
